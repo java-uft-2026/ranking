@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 19:00**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 19:04**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 19:04` 🎉 **Gabriela Hirata** resolveu **ex13 – Número primo** (+10)
 - `01/10 19:00` 🎉 **Joaquim Rangel** resolveu **ex28 – Torre de Hanói** (+40)
 - `01/10 18:37` 🎉 **Gabriela Hirata** resolveu **ex12 – Caixa eletrônico** (+10)
 - `01/10 17:59` 🎉 **Gabriela Hirata** resolveu **ex10 – Maior, menor e soma** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 17:10` 🎉 **Joaquim Rangel** resolveu **ex27 – Busca binária** (+40)
 - `01/10 16:45` 🎉 **Joaquim Rangel** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `01/10 16:40` 🎉 **Joaquim Rangel** resolveu **ex02 – Média de três notas** (+10)
-- `01/10 16:40` 🎉 **Gabriel** resolveu **ex11 – Calculadora de IMC** (+10)
 
 ### Classificação
 
@@ -23,9 +23,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥇 1 | Espião | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | Joaquim Rangel | **470** | Avançado | 15/15 | 10/10 | 3/5 |
 | 🥉 3 | Ricardo Gabriel | **110** | Aprendiz | 7/15 | 2/10 | 0/5 |
-|  4 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |
-|  5 | Gabriel | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
-|  6 | Gabriela Hirata | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
+|  4 | Gabriela Hirata | **110** | Aprendiz | 11/15 | 0/10 | 0/5 |
+|  5 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |
+|  6 | Gabriel | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
 |  7 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  8 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  9 | Ítalo César Fonseca Bandeira | **60** | Iniciante | 6/15 | 0/10 | 0/5 |

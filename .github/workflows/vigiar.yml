@@ -1,7 +1,8 @@
 name: Vigiar envios dos alunos
 
-# O GitHub só permite agendar a cada 5 min; por isso cada execução verifica 5 vezes,
-# uma por minuto (repositório público = minutos grátis).
+# O GitHub só permite agendar a cada 5 min e, na prática, atrasa os agendamentos (15–25 min).
+# Por isso cada execução fica verificando uma vez por minuto por até 25 min; a próxima
+# execução agendada substitui a anterior (repositório público = minutos grátis).
 # Se algum aluno fez push depois da última correção, dispara o corretor na hora.
 on:
   schedule:
@@ -17,7 +18,7 @@ concurrency:
 jobs:
   vigiar:
     runs-on: ubuntu-latest
-    timeout-minutes: 7
+    timeout-minutes: 30
     steps:
       - name: Verificar envios e disparar o corretor
         env:
@@ -53,10 +54,10 @@ jobs:
                   print(f"{novos} repositório(s) com envio novo: correção disparada.")
               else:
                   print("Nenhum envio novo.")
-          for volta in range(5):
+          for volta in range(25):
               try:
                   verificar()
               except Exception as e:
                   print('falha na verificação:', e)
-              if volta < 4:
+              if volta < 24:
                   time.sleep(58)

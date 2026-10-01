@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 16:29**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 16:37**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 16:37` 🎉 **Joaquim Rangel** resolveu **ex07 – Soma de 1 até N** (+10)
 - `01/10 15:36` 🎉 **Joaquim Rangel** resolveu **ex22 – MDC e MMC** (+20)
 - `01/10 15:11` 🎉 **Keven** resolveu **ex01 – Soma de dois números** (+10)
 - `01/10 15:11` 🎉 **Joaquim Rangel** resolveu **ex01 – Soma de dois números** (+10)
@@ -14,14 +15,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 14:42` 🎉 **Joaquim Rangel** resolveu **ex14 – Soma dos dígitos** (+10)
 - `01/10 14:31` 🎉 **Joaquim Rangel** resolveu **ex13 – Número primo** (+10)
 - `01/10 14:19` 🎉 **Joaquim Rangel** resolveu **ex12 – Caixa eletrônico** (+10)
-- `01/10 14:04` 🎉 **Joaquim Rangel** resolveu **ex24 – Segundo maior** (+20)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Espião | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | Joaquim Rangel | **330** | Desenvolvedor | 13/15 | 10/10 | 0/5 |
+| 🥈 2 | Joaquim Rangel | **340** | Desenvolvedor | 14/15 | 10/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **110** | Aprendiz | 7/15 | 2/10 | 0/5 |
 |  4 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |
 |  5 | Gabriel | **90** | Iniciante | 9/15 | 0/10 | 0/5 |

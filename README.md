@@ -1,6 +1,6 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 10:04_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 10:08_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
@@ -8,17 +8,17 @@ _Atualizado em 01/10/2026 10:04_ · Pontuação: básico 10 · intermediário 20
 | 🥈 2 | Daniel Castelo | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 | 🥉 3 | Gabriela Hirata | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  4 | Ricardo Gabriel | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  5 | Matheus | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  6 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  7 | Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  8 | Andrei | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  9 | Ítalo César Fonseca Bandeira | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  10 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  11 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  12 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  13 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  14 | Pedro Paiva | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  15 | Hyago Correia | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  5 | Hyago Correia | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  6 | Gabriel | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
+|  7 | Matheus | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  8 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  9 | Andrei | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  10 | Ítalo César Fonseca Bandeira | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  11 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  12 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  13 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  14 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  15 | Pedro Paiva | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  16 | Arthur | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  17 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  18 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

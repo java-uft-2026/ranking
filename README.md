@@ -1,6 +1,6 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 09:50_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 09:51_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
@@ -8,8 +8,8 @@ _Atualizado em 01/10/2026 09:50_ · Pontuação: básico 10 · intermediário 20
 | 🥈 2 | Daniel Castelo | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 |  4 | Gabriela Hirata | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
-|  5 | Matheus | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  6 | Dairllon Miranda | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  5 | Dairllon Miranda | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  6 | Matheus | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  7 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  8 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  9 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

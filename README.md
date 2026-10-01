@@ -1,20 +1,20 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 09:36_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 09:39_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
-| 🥇 1 | Joaquim Rangel | **80** | Iniciante | 2/15 | 3/10 | 0/5 |
+| 🥇 1 | Joaquim Rangel | **90** | Iniciante | 1/15 | 4/10 | 0/5 |
 | 🥈 2 | Gabriela Hirata | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 | 🥉 3 | Matheus | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  4 | Gabriel Veloso | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  5 | Daniel Castelo | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  6 | Evelyn | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  7 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  8 | Ricardo Gabriel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  9 | Andrei | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  10 | Arthur | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  11 | Dairllon Miranda | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  7 | Ricardo Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  8 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  9 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  10 | Andrei | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  11 | Arthur | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  12 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  13 | Diniz | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  14 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
@@ -25,11 +25,12 @@ _Atualizado em 01/10/2026 09:36_ · Pontuação: básico 10 · intermediário 20
 |  19 | Lucas | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  20 | Luizhen | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  21 | Pedro Paiva | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  22 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  23 | steigt | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  24 | Vitor Marinho | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  25 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  26 | Vitor Xavier | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  27 | Ítalo César Fonseca Bandeira | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  22 | Samuel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  23 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  24 | steigt | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  25 | Vitor Marinho | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  26 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  27 | Vitor Xavier | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  28 | Ítalo César Fonseca Bandeira | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 
 Empate: fica à frente quem atingiu a pontuação primeiro.

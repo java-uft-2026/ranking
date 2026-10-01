@@ -1,6 +1,6 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 08:57_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 09:03_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|

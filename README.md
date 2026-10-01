@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 13:22**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 13:28**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 13:28` 🎉 **Joaquim Rangel** resolveu **ex10 – Maior, menor e soma** (+10)
 - `01/10 13:22` 🎉 **Joaquim Rangel** resolveu **ex09 – Ano bissexto** (+10)
 - `01/10 13:12` 🎉 **Joaquim Rangel** resolveu **ex08 – Fatorial** (+10)
 - `01/10 12:35` 🎉 **Joaquim Rangel** resolveu **ex25 – Cifra de César** (+20)
@@ -14,14 +15,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 11:25` 🎉 **Lucas** resolveu **ex09 – Ano bissexto** (+10)
 - `01/10 11:25` 🎉 **Keven** resolveu **ex20 – Frequência de valores** (+20)
 - `01/10 11:25` 🎉 **Gabriela Hirata** resolveu **ex09 – Ano bissexto** (+10)
-- `01/10 11:17` 🎉 **Gabriel Veloso** resolveu **ex08 – Fatorial** (+10)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Espião | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | Joaquim Rangel | **210** | Aprendiz | 5/15 | 8/10 | 0/5 |
+| 🥈 2 | Joaquim Rangel | **220** | Aprendiz | 6/15 | 8/10 | 0/5 |
 | 🥉 3 | Gabriel | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  4 | Keven | **90** | Iniciante | 1/15 | 4/10 | 0/5 |
 |  5 | Ricardo Gabriel | **80** | Iniciante | 6/15 | 1/10 | 0/5 |

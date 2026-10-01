@@ -1,21 +1,21 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 08:44_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 08:47_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
-|  1 | Cerutti | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  2 | Dairllon Miranda | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  3 | Daniel Castelo | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  4 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  5 | Diniz | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  6 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  7 | Espião | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  8 | Evelyn | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  9 | Gabriel Veloso | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  10 | Gabriela Hirata | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  11 | Hyago Correia | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  12 | Joaquim Rangel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+| 🥇 1 | Joaquim Rangel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  2 | Cerutti | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  3 | Dairllon Miranda | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  4 | Daniel Castelo | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  5 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  6 | Diniz | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  7 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  8 | Espião | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  9 | Evelyn | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  10 | Gabriel Veloso | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  11 | Gabriela Hirata | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  12 | Hyago Correia | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  13 | João Gabriel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  14 | Luizhen | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  15 | Matheus | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

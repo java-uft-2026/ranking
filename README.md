@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 14:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 14:19**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 14:19` 🎉 **Joaquim Rangel** resolveu **ex12 – Caixa eletrônico** (+10)
 - `01/10 14:04` 🎉 **Joaquim Rangel** resolveu **ex24 – Segundo maior** (+20)
 - `01/10 13:58` 🎉 **Joaquim Rangel** resolveu **ex03 – Par ou ímpar** (+10)
 - `01/10 13:51` 🎉 **Joaquim Rangel** resolveu **ex11 – Calculadora de IMC** (+10)
@@ -14,14 +15,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 13:32` 🎉 **Ricardo Gabriel** resolveu **ex17 – Palíndromo** (+20)
 - `01/10 13:28` 🎉 **Joaquim Rangel** resolveu **ex10 – Maior, menor e soma** (+10)
 - `01/10 13:22` 🎉 **Joaquim Rangel** resolveu **ex09 – Ano bissexto** (+10)
-- `01/10 13:12` 🎉 **Joaquim Rangel** resolveu **ex08 – Fatorial** (+10)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Espião | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | Joaquim Rangel | **260** | Desenvolvedor | 8/15 | 9/10 | 0/5 |
+| 🥈 2 | Joaquim Rangel | **270** | Desenvolvedor | 9/15 | 9/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **110** | Aprendiz | 7/15 | 2/10 | 0/5 |
 |  4 | Gabriel | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  5 | Keven | **90** | Iniciante | 1/15 | 4/10 | 0/5 |

@@ -1,11 +1,11 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 10:29_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 10:31_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Joaquim Rangel | **130** | Aprendiz | 1/15 | 6/10 | 0/5 |
-| 🥈 2 | Ricardo Gabriel | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
+| 🥈 2 | Ricardo Gabriel | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 | 🥉 3 | Hyago Correia | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
 |  4 | Daniel Castelo | **60** | Iniciante | 4/15 | 1/10 | 0/5 |
 |  5 | Gabriela Hirata | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
@@ -15,13 +15,13 @@ _Atualizado em 01/10/2026 10:29_ · Pontuação: básico 10 · intermediário 20
 |  9 | Matheus | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  10 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  11 | Pedro Paiva | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  12 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  12 | Evelyn | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  13 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  14 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  15 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  16 | Gabriel Veloso | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  17 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  18 | Arthur | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  18 | Arthur | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  19 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  20 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  21 | Espião | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

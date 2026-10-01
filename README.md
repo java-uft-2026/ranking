@@ -2,7 +2,7 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 19:25**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 19:38**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
@@ -21,7 +21,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Espião | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | Joaquim Rangel | **470** | Avançado | 15/15 | 10/10 | 3/5 |
+| 🥈 2 | Joaquim Rangel | **460** | Avançado | 14/15 | 10/10 | 3/5 |
 | 🥉 3 | Ricardo Gabriel | **110** | Aprendiz | 7/15 | 2/10 | 0/5 |
 |  4 | Gabriela Hirata | **110** | Aprendiz | 11/15 | 0/10 | 0/5 |
 |  5 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |

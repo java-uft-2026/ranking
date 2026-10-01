@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 17:10**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 17:12**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 17:12` 🎉 **Gabriela Hirata** resolveu **ex11 – Calculadora de IMC** (+10)
 - `01/10 17:10` 🎉 **Joaquim Rangel** resolveu **ex27 – Busca binária** (+40)
 - `01/10 16:45` 🎉 **Joaquim Rangel** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `01/10 16:40` 🎉 **Joaquim Rangel** resolveu **ex02 – Média de três notas** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 16:37` 🎉 **Joaquim Rangel** resolveu **ex07 – Soma de 1 até N** (+10)
 - `01/10 15:36` 🎉 **Joaquim Rangel** resolveu **ex22 – MDC e MMC** (+20)
 - `01/10 15:11` 🎉 **Keven** resolveu **ex01 – Soma de dois números** (+10)
-- `01/10 15:11` 🎉 **Joaquim Rangel** resolveu **ex01 – Soma de dois números** (+10)
 
 ### Classificação
 
@@ -25,9 +25,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥉 3 | Ricardo Gabriel | **110** | Aprendiz | 7/15 | 2/10 | 0/5 |
 |  4 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |
 |  5 | Gabriel | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
-|  6 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
-|  7 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
-|  8 | Gabriela Hirata | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  6 | Gabriela Hirata | **80** | Iniciante | 8/15 | 0/10 | 0/5 |
+|  7 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  8 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  9 | Ítalo César Fonseca Bandeira | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
 |  10 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  11 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

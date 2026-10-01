@@ -1,6 +1,6 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 09:31_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 09:33_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
@@ -11,15 +11,15 @@ _Atualizado em 01/10/2026 09:31_ · Pontuação: básico 10 · intermediário 20
 |  5 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  6 | Ricardo Gabriel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  7 | Daniel Castelo | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  8 | Andrei | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  9 | ArthurMaozinha | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  10 | Dairllon Miranda | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  11 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  12 | Diniz | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  13 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  14 | Espião | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  15 | Gabriel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  16 | Gabriel Veloso | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  8 | Gabriel Veloso | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  9 | Andrei | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  10 | Arthur | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  11 | Dairllon Miranda | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  12 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  13 | Diniz | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  14 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  15 | Espião | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  16 | Gabriel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  17 | Hyago Correia | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  18 | João Gabriel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  19 | Lucas | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

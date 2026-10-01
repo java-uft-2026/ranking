@@ -1,10 +1,10 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 09:10_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+_Atualizado em 01/10/2026 09:15_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
-| 🥇 1 | Joaquim Rangel | **50** | Iniciante | 3/15 | 1/10 | 0/5 |
+| 🥇 1 | Joaquim Rangel | **60** | Iniciante | 2/15 | 2/10 | 0/5 |
 | 🥈 2 | Matheus | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  3 | Andrei | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  4 | Cerutti | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

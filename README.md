@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 10:49**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 10:52**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 10:52` 🎉 **Pedro Paiva** resolveu **ex06 – Tabuada** (+10)
 - `01/10 10:48` 🎉 **Joaquim Rangel** resolveu **ex06 – Tabuada** (+10)
 - `01/10 10:45` 🎉 **Joaquim Rangel** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `01/10 10:45` 🎉 **Gabriela Hirata** resolveu **ex02 – Média de três notas** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 10:45` 🎉 **Gabriel Veloso** resolveu **ex04 – Maior de três** (+10)
 - `01/10 10:45` 🎉 **Gabriel** resolveu **ex02 – Média de três notas** (+10)
 - `01/10 10:42` 🎉 **João Gabriel** resolveu **ex02 – Média de três notas** (+10)
-- `01/10 10:42` 🎉 **Gabriela Hirata** resolveu **ex16 – Vetor invertido** (+20)
 
 ### Classificação
 
@@ -31,7 +31,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  9 | Andrei | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 |  10 | Lucas | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 |  11 | Gabriel Veloso | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
-|  12 | Pedro Paiva | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  12 | Pedro Paiva | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 |  13 | Luizhen | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  14 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  15 | Arthur | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

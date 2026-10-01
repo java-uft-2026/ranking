@@ -1,6 +1,22 @@
 # 🏆 Ranking – Lista de Exercícios Java
 
-_Atualizado em 01/10/2026 10:33_ · Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+> ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
+
+_Atualizado em **01/10/2026 10:34**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
+
+### ⚡ Últimas conquistas
+
+- `01/10 13:11` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex03 – Par ou ímpar** (+10)
+- `01/10 13:04` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex02 – Média de três notas** (+10)
+- `01/10 12:52` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex01 – Soma de dois números** (+10)
+- `01/10 10:30` 🎉 **Ricardo Gabriel** resolveu **ex16 – Vetor invertido** (+20)
+- `01/10 10:29` 🎉 **Evelyn** resolveu **ex09 – Ano bissexto** (+10)
+- `01/10 10:29` 🎉 **Arthur** resolveu **ex02 – Média de três notas** (+10)
+- `01/10 10:26` 🎉 **Pedro Paiva** resolveu **ex04 – Maior de três** (+10)
+- `01/10 10:26` 🎉 **Samuel** resolveu **ex01 – Soma de dois números** (+10)
+
+### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
@@ -12,10 +28,10 @@ _Atualizado em 01/10/2026 10:33_ · Pontuação: básico 10 · intermediário 20
 |  6 | Gabriel | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  7 | Andrei | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 |  8 | Ítalo César Fonseca Bandeira | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
-|  9 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  10 | Pedro Paiva | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  11 | Evelyn | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  12 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  9 | Pedro Paiva | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  10 | Evelyn | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  11 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  12 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  13 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  14 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  15 | Matheus | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

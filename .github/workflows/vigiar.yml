@@ -1,6 +1,7 @@
 name: Vigiar envios dos alunos
 
-# Roda a cada 5 minutos (repositório público = minutos grátis).
+# O GitHub só permite agendar a cada 5 min; por isso cada execução verifica 5 vezes,
+# uma por minuto (repositório público = minutos grátis).
 # Se algum aluno fez push depois da última correção, dispara o corretor na hora.
 on:
   schedule:
@@ -16,7 +17,7 @@ concurrency:
 jobs:
   vigiar:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 7
     steps:
       - name: Verificar envios e disparar o corretor
         env:
@@ -34,19 +35,28 @@ jobs:
               with urllib.request.urlopen(req, timeout=30) as r:
                   t = r.read().decode()
                   return json.loads(t) if t else {}
-          runs = api(f"/repos/{ORG}/{CORR}/actions/workflows/corrigir.yml/runs?per_page=5")["workflow_runs"]
-          if any(r["status"] in ("queued", "in_progress", "waiting", "pending") for r in runs):
-              print("Correção já em andamento."); raise SystemExit
-          ultima = max((r["run_started_at"] or r["created_at"] for r in runs if r["conclusion"] == "success"), default="")
-          novos, pagina = 0, 1
-          while True:
-              lote = api(f"/orgs/{ORG}/repos?per_page=100&page={pagina}&type=all")
-              if not lote: break
-              novos += sum(1 for r in lote if r["name"].startswith(PRE) and r["name"] not in IGNORAR
-                           and not r["archived"] and (r["pushed_at"] or "") > ultima)
-              pagina += 1
-          if novos:
-              api(f"/repos/{ORG}/{CORR}/actions/workflows/corrigir.yml/dispatches", "POST", {"ref": "main"})
-              print(f"{novos} repositório(s) com envio novo: correção disparada.")
-          else:
-              print("Nenhum envio novo.")
+          import time
+          def verificar():
+              runs = api(f"/repos/{ORG}/{CORR}/actions/workflows/corrigir.yml/runs?per_page=5")["workflow_runs"]
+              if any(r["status"] in ("queued", "in_progress", "waiting", "pending") for r in runs):
+                  print("Correção já em andamento."); return
+              ultima = max((r["run_started_at"] or r["created_at"] for r in runs if r["conclusion"] == "success"), default="")
+              novos, pagina = 0, 1
+              while True:
+                  lote = api(f"/orgs/{ORG}/repos?per_page=100&page={pagina}&type=all")
+                  if not lote: break
+                  novos += sum(1 for r in lote if r["name"].startswith(PRE) and r["name"] not in IGNORAR
+                               and not r["archived"] and (r["pushed_at"] or "") > ultima)
+                  pagina += 1
+              if novos:
+                  api(f"/repos/{ORG}/{CORR}/actions/workflows/corrigir.yml/dispatches", "POST", {"ref": "main"})
+                  print(f"{novos} repositório(s) com envio novo: correção disparada.")
+              else:
+                  print("Nenhum envio novo.")
+          for volta in range(5):
+              try:
+                  verificar()
+              except Exception as e:
+                  print('falha na verificação:', e)
+              if volta < 4:
+                  time.sleep(58)

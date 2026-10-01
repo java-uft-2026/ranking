@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 11:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 11:07**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 11:07` 🎉 **Evelyn** resolveu **ex11 – Calculadora de IMC** (+10)
 - `01/10 11:06` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex03 – Par ou ímpar** (+10)
 - `01/10 11:06` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `01/10 11:06` 🎉 **Keven** resolveu **ex17 – Palíndromo** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 11:06` 🎉 **Eduardo Liell** resolveu **ex01 – Soma de dois números** (+10)
 - `01/10 11:06` 🎉 **Arthur** resolveu **ex01 – Soma de dois números** (+10)
 - `01/10 11:02` 🎉 **Lucas** resolveu **ex05 – Celsius para Fahrenheit** (+10)
-- `01/10 11:02` 🎉 **Gabriela Hirata** resolveu **ex08 – Fatorial** (+10)
 
 ### Classificação
 
@@ -37,10 +37,10 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  15 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  16 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  17 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
-|  18 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  19 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  20 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  21 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  18 | Evelyn | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  19 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  20 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  21 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  22 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  23 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 10:52**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 10:54**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 10:54` 🎉 **Daniel Castelo** resolveu **ex08 – Fatorial** (+10)
 - `01/10 10:52` 🎉 **Pedro Paiva** resolveu **ex06 – Tabuada** (+10)
 - `01/10 10:48` 🎉 **Joaquim Rangel** resolveu **ex06 – Tabuada** (+10)
 - `01/10 10:45` 🎉 **Joaquim Rangel** resolveu **ex05 – Celsius para Fahrenheit** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 10:45` 🎉 **Gabriel Veloso** resolveu **ex07 – Soma de 1 até N** (+10)
 - `01/10 10:45` 🎉 **Gabriel Veloso** resolveu **ex04 – Maior de três** (+10)
 - `01/10 10:45` 🎉 **Gabriel** resolveu **ex02 – Média de três notas** (+10)
-- `01/10 10:42` 🎉 **João Gabriel** resolveu **ex02 – Média de três notas** (+10)
 
 ### Classificação
 
@@ -25,7 +25,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥉 3 | Ricardo Gabriel | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  4 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  5 | Gabriela Hirata | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
-|  6 | Daniel Castelo | **60** | Iniciante | 4/15 | 1/10 | 0/5 |
+|  6 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  7 | Gabriel | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
 |  8 | Ítalo César Fonseca Bandeira | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  9 | Andrei | **30** | Iniciante | 3/15 | 0/10 | 0/5 |

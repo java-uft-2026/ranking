@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 11:13**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 11:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 11:15` 🎉 **Gabriel** resolveu **ex10 – Maior, menor e soma** (+10)
 - `01/10 11:11` 🎉 **Keven** resolveu **ex18 – Contador de vogais** (+20)
 - `01/10 11:11` 🎉 **Joaquim Rangel** resolveu **ex17 – Palíndromo** (+20)
 - `01/10 11:09` 🎉 **Keven** resolveu **ex16 – Vetor invertido** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 11:07` 🎉 **Evelyn** resolveu **ex11 – Calculadora de IMC** (+10)
 - `01/10 11:06` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex03 – Par ou ímpar** (+10)
 - `01/10 11:06` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
-- `01/10 11:06` 🎉 **Keven** resolveu **ex17 – Palíndromo** (+20)
 
 ### Classificação
 
@@ -22,9 +22,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |---|---|---|---|---|---|---|
 | 🥇 1 | Espião | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | Joaquim Rangel | **170** | Aprendiz | 3/15 | 7/10 | 0/5 |
-| 🥉 3 | Ricardo Gabriel | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
-|  4 | Gabriela Hirata | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
-|  5 | Gabriel | **80** | Iniciante | 8/15 | 0/10 | 0/5 |
+| 🥉 3 | Gabriel | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
+|  4 | Ricardo Gabriel | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
+|  5 | Gabriela Hirata | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  6 | Ítalo César Fonseca Bandeira | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  7 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  8 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |

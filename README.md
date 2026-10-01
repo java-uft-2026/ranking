@@ -2,19 +2,19 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 11:04**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 11:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
-- `01/10 11:04` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex03 – Par ou ímpar** (+10)
-- `01/10 11:04` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
-- `01/10 11:04` 🎉 **Gabriel** resolveu **ex08 – Fatorial** (+10)
+- `01/10 11:06` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex03 – Par ou ímpar** (+10)
+- `01/10 11:06` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
+- `01/10 11:06` 🎉 **Keven** resolveu **ex17 – Palíndromo** (+20)
+- `01/10 11:06` 🎉 **Gabriel** resolveu **ex08 – Fatorial** (+10)
+- `01/10 11:06` 🎉 **Eduardo Liell** resolveu **ex01 – Soma de dois números** (+10)
+- `01/10 11:06` 🎉 **Arthur** resolveu **ex01 – Soma de dois números** (+10)
 - `01/10 11:02` 🎉 **Lucas** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `01/10 11:02` 🎉 **Gabriela Hirata** resolveu **ex08 – Fatorial** (+10)
-- `01/10 11:02` 🎉 **Gabriel** resolveu **ex07 – Soma de 1 até N** (+10)
-- `01/10 11:00` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
-- `01/10 11:00` 🎉 **Keven** resolveu **ex02 – Média de três notas** (+10)
 
 ### Classificação
 
@@ -33,18 +33,18 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  11 | Andrei | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 |  12 | Gabriel Veloso | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
 |  13 | Luizhen | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
-|  14 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  15 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
-|  16 | Arthur | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  17 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  18 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  19 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  20 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  21 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  22 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  23 | Keven | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  24 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  25 | Eduardo Liell | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  14 | Keven | **30** | Iniciante | 1/15 | 1/10 | 0/5 |
+|  15 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  16 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  17 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
+|  18 | Cerutti | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  19 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  20 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  21 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  22 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  23 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  25 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  26 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  27 | steigt | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  28 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/10/2026 10:46**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/10/2026 10:47**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/10 10:47` 🎉 **Joaquim Rangel** resolveu **ex06 – Tabuada** (+10)
 - `01/10 10:45` 🎉 **Joaquim Rangel** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `01/10 10:45` 🎉 **Gabriela Hirata** resolveu **ex02 – Média de três notas** (+10)
 - `01/10 10:45` 🎉 **Gabriel Veloso** resolveu **ex07 – Soma de 1 até N** (+10)
@@ -14,14 +15,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 10:45` 🎉 **Gabriel** resolveu **ex02 – Média de três notas** (+10)
 - `01/10 10:42` 🎉 **João Gabriel** resolveu **ex02 – Média de três notas** (+10)
 - `01/10 10:42` 🎉 **Gabriela Hirata** resolveu **ex16 – Vetor invertido** (+20)
-- `01/10 10:42` 🎉 **Espião** resolveu **ex30 – Maior soma contígua** (+40)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Espião | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | Joaquim Rangel | **150** | Aprendiz | 3/15 | 6/10 | 0/5 |
+| 🥈 2 | Joaquim Rangel | **160** | Aprendiz | 4/15 | 6/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  4 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  5 | Gabriela Hirata | **70** | Iniciante | 5/15 | 1/10 | 0/5 |

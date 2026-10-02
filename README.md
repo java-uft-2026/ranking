@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/10/2026 15:00**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/10/2026 15:12**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `02/10 15:12` 🎉 **Gabriel** resolveu **ex12 – Caixa eletrônico** (+10)
 - `02/10 15:00` 🎉 **Gabriela Hirata** resolveu **ex19 – Ordenação na mão** (+20)
 - `02/10 14:45` 🎉 **Gabriela Hirata** resolveu **ex18 – Contador de vogais** (+20)
 - `02/10 08:47` 🎉 **Ricardo Gabriel** resolveu **ex18 – Contador de vogais** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/10 22:01` 🎉 **Joaquim Rangel** resolveu **ex30 – Maior soma contígua** (+40)
 - `01/10 21:57` 🎉 **Gabriela Hirata** resolveu **ex17 – Palíndromo** (+20)
 - `01/10 21:57` 🎉 **Gabriela Hirata** resolveu **ex15 – Sequência de Fibonacci** (+10)
-- `01/10 21:12` 🎉 **Joaquim Rangel** resolveu **ex29 – Matriz em espiral** (+40)
 
 ### Classificação
 
@@ -23,8 +23,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | Gabriela Hirata | **190** | Aprendiz | 13/15 | 3/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
-|  4 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |
-|  5 | Gabriel | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
+|  4 | Gabriel | **110** | Aprendiz | 11/15 | 0/10 | 0/5 |
+|  5 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |
 |  6 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  7 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  8 | Ítalo César Fonseca Bandeira | **60** | Iniciante | 6/15 | 0/10 | 0/5 |

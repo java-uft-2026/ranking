@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/10/2026 20:39**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/10/2026 20:49**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `02/10 20:49` 🎉 **Gabriel Veloso** resolveu **ex10 – Maior, menor e soma** (+10)
 - `02/10 20:01` 🎉 **Keven** resolveu **ex03 – Par ou ímpar** (+10)
 - `02/10 19:59` 🎉 **Luizhen** resolveu **ex02 – Média de três notas** (+10)
 - `02/10 19:59` 🎉 **Gabriel Veloso** resolveu **ex02 – Média de três notas** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `02/10 19:57` 🎉 **Gabriel Veloso** resolveu **ex01 – Soma de dois números** (+10)
 - `02/10 16:59` 🎉 **Keven** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 16:24` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
-- `02/10 16:24` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 
 ### Classificação
 
@@ -28,7 +28,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  6 | Ítalo César Fonseca Bandeira | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  7 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  8 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
-|  9 | Gabriel Veloso | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
+|  9 | Gabriel Veloso | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  10 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  11 | Luizhen | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  12 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

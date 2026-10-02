@@ -2,19 +2,19 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/10/2026 16:17**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/10/2026 16:24**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `02/10 16:24` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
+- `02/10 16:24` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 16:17` 🎉 **Gabriel** resolveu **ex17 – Palíndromo** (+20)
 - `02/10 15:46` 🎉 **Gabriela Hirata** resolveu **ex20 – Frequência de valores** (+20)
 - `02/10 15:35` 🎉 **Gabriela Hirata** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 15:12` 🎉 **Gabriel** resolveu **ex12 – Caixa eletrônico** (+10)
 - `02/10 15:00` 🎉 **Gabriela Hirata** resolveu **ex19 – Ordenação na mão** (+20)
 - `02/10 14:45` 🎉 **Gabriela Hirata** resolveu **ex18 – Contador de vogais** (+20)
-- `02/10 08:47` 🎉 **Ricardo Gabriel** resolveu **ex18 – Contador de vogais** (+20)
-- `02/10 08:42` 🎉 **Ricardo Gabriel** resolveu **ex19 – Ordenação na mão** (+20)
 
 ### Classificação
 
@@ -24,10 +24,10 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥈 2 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  4 | Gabriel | **130** | Aprendiz | 11/15 | 1/10 | 0/5 |
-|  5 | Keven | **100** | Aprendiz | 2/15 | 4/10 | 0/5 |
-|  6 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
-|  7 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
-|  8 | Ítalo César Fonseca Bandeira | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
+|  5 | Keven | **80** | Iniciante | 2/15 | 3/10 | 0/5 |
+|  6 | Ítalo César Fonseca Bandeira | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
+|  7 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  8 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  9 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  10 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  11 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
@@ -36,14 +36,14 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  14 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  15 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  16 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  17 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  18 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  19 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  20 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  21 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  22 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  23 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  24 | Matheus | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  17 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
+|  18 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  19 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  20 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  21 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  22 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  23 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  24 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  25 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  26 | steigt | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  27 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

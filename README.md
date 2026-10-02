@@ -2,19 +2,19 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/10/2026 16:59**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/10/2026 19:57**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `02/10 19:57` 🎉 **Luizhen** resolveu **ex01 – Soma de dois números** (+10)
+- `02/10 19:57` 🎉 **Gabriel Veloso** resolveu **ex01 – Soma de dois números** (+10)
 - `02/10 16:59` 🎉 **Keven** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 16:24` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 16:24` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 16:17` 🎉 **Gabriel** resolveu **ex17 – Palíndromo** (+20)
 - `02/10 15:46` 🎉 **Gabriela Hirata** resolveu **ex20 – Frequência de valores** (+20)
 - `02/10 15:35` 🎉 **Gabriela Hirata** resolveu **ex16 – Vetor invertido** (+20)
-- `02/10 15:12` 🎉 **Gabriel** resolveu **ex12 – Caixa eletrônico** (+10)
-- `02/10 15:00` 🎉 **Gabriela Hirata** resolveu **ex19 – Ordenação na mão** (+20)
 
 ### Classificação
 
@@ -29,10 +29,10 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  7 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  8 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  9 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  10 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  11 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  12 | Gabriel Veloso | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  13 | Luizhen | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
+|  10 | Gabriel Veloso | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  11 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  12 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  13 | Luizhen | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  14 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  15 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  16 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |

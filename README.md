@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/10/2026 21:04**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/10/2026 21:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `02/10 21:06` 🎉 **Joaquim Rangel** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 20:49` 🎉 **Gabriel Veloso** resolveu **ex10 – Maior, menor e soma** (+10)
 - `02/10 20:01` 🎉 **Keven** resolveu **ex03 – Par ou ímpar** (+10)
 - `02/10 19:59` 🎉 **Luizhen** resolveu **ex02 – Média de três notas** (+10)
@@ -14,13 +15,12 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `02/10 19:57` 🎉 **Luizhen** resolveu **ex01 – Soma de dois números** (+10)
 - `02/10 19:57` 🎉 **Gabriel Veloso** resolveu **ex01 – Soma de dois números** (+10)
 - `02/10 16:59` 🎉 **Keven** resolveu **ex16 – Vetor invertido** (+20)
-- `02/10 16:24` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
-| 🥇 1 | Joaquim Rangel | **530** | Avançado | 15/15 | 9/10 | 5/5 |
+| 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  4 | Gabriel | **130** | Aprendiz | 11/15 | 1/10 | 0/5 |

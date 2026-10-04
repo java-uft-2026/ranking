@@ -2,7 +2,7 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/10/2026 02:16**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/10/2026 10:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
@@ -20,7 +20,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
-| 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
+| 🥇 1 | Joaquim Rangel | **540** | Avançado | 14/15 | 10/10 | 5/5 |
 | 🥈 2 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 | 🥉 3 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  4 | Gabriel | **130** | Aprendiz | 11/15 | 1/10 | 0/5 |
@@ -29,9 +29,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  7 | Ítalo César Fonseca Bandeira | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  8 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  9 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
-|  10 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  11 | Luizhen | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  12 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  10 | Luizhen | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  11 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  12 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  13 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  14 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  15 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |

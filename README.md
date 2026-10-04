@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/10/2026 20:45**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/10/2026 20:55**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `04/10 20:55` 🎉 **Luizhen** resolveu **ex08 – Fatorial** (+10)
 - `04/10 18:14` 🎉 **Gabriel** resolveu **ex06 – Tabuada** (+10)
 - `04/10 18:12` 🎉 **Gabriel** resolveu **ex14 – Soma dos dígitos** (+10)
 - `04/10 18:04` 🎉 **Gabriel** resolveu **ex13 – Número primo** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/10 16:06` 🎉 **steigt** resolveu **ex11 – Calculadora de IMC** (+10)
 - `03/10 17:37` 🎉 **Gabriel Veloso** resolveu **ex06 – Tabuada** (+10)
 - `03/10 11:48` 🎉 **Gabriel Veloso** resolveu **ex11 – Calculadora de IMC** (+10)
-- `02/10 21:17` 🎉 **Gabriel Veloso** resolveu **ex03 – Par ou ímpar** (+10)
 
 ### Classificação
 
@@ -29,7 +29,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  7 | Ítalo César Fonseca Bandeira | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  8 | Hyago Correia | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  9 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
-|  10 | Luizhen | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  10 | Luizhen | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
 |  11 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  12 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  13 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/10/2026 10:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/10/2026 16:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `04/10 16:06` 🎉 **steigt** resolveu **ex11 – Calculadora de IMC** (+10)
 - `03/10 17:37` 🎉 **Gabriel Veloso** resolveu **ex06 – Tabuada** (+10)
 - `03/10 11:48` 🎉 **Gabriel Veloso** resolveu **ex11 – Calculadora de IMC** (+10)
 - `02/10 21:17` 🎉 **Gabriel Veloso** resolveu **ex03 – Par ou ímpar** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `02/10 21:14` 🎉 **Gabriel Veloso** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 21:06` 🎉 **Joaquim Rangel** resolveu **ex16 – Vetor invertido** (+20)
 - `02/10 20:49` 🎉 **Gabriel Veloso** resolveu **ex10 – Maior, menor e soma** (+10)
-- `02/10 20:01` 🎉 **Keven** resolveu **ex03 – Par ou ímpar** (+10)
 
 ### Classificação
 
@@ -43,9 +43,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  21 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  22 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  23 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  24 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  25 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
-|  26 | steigt | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  24 | steigt | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  25 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  26 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  27 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  28 | Vitor Xavier | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 

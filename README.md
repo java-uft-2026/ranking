@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **05/10/2026 13:55**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **05/10/2026 14:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `05/10 14:06` 🎉 **steigt** resolveu **ex13 – Número primo** (+10)
 - `05/10 13:55` 🎉 **steigt** resolveu **ex12 – Caixa eletrônico** (+10)
 - `04/10 23:49` 🎉 **Luizhen** resolveu **ex12 – Caixa eletrônico** (+10)
 - `04/10 22:50` 🎉 **Luizhen** resolveu **ex10 – Maior, menor e soma** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/10 20:55` 🎉 **Luizhen** resolveu **ex08 – Fatorial** (+10)
 - `04/10 18:14` 🎉 **Gabriel** resolveu **ex06 – Tabuada** (+10)
 - `04/10 18:12` 🎉 **Gabriel** resolveu **ex14 – Soma dos dígitos** (+10)
-- `04/10 18:04` 🎉 **Gabriel** resolveu **ex13 – Número primo** (+10)
 
 ### Classificação
 
@@ -33,11 +33,11 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  11 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  12 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  13 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  14 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  15 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  16 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  17 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
-|  18 | steigt | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  14 | steigt | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
+|  15 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  16 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  17 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  18 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
 |  19 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  20 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  21 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

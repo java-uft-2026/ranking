@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **05/10/2026 14:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **05/10/2026 14:13**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `05/10 14:13` 🎉 **Gabriel** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `05/10 14:06` 🎉 **steigt** resolveu **ex13 – Número primo** (+10)
 - `05/10 13:55` 🎉 **steigt** resolveu **ex12 – Caixa eletrônico** (+10)
 - `04/10 23:49` 🎉 **Luizhen** resolveu **ex12 – Caixa eletrônico** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/10 22:02` 🎉 **Luizhen** resolveu **ex09 – Ano bissexto** (+10)
 - `04/10 20:55` 🎉 **Luizhen** resolveu **ex08 – Fatorial** (+10)
 - `04/10 18:14` 🎉 **Gabriel** resolveu **ex06 – Tabuada** (+10)
-- `04/10 18:12` 🎉 **Gabriel** resolveu **ex14 – Soma dos dígitos** (+10)
 
 ### Classificação
 
@@ -22,7 +22,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |---|---|---|---|---|---|---|
 | 🥇 1 | Joaquim Rangel | **540** | Avançado | 14/15 | 10/10 | 5/5 |
 | 🥈 2 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
-| 🥉 3 | Gabriel | **180** | Aprendiz | 14/15 | 2/10 | 0/5 |
+| 🥉 3 | Gabriel | **190** | Aprendiz | 15/15 | 2/10 | 0/5 |
 |  4 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  5 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  6 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |

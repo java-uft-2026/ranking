@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **06/10/2026 14:53**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **06/10/2026 15:01**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `06/10 15:01` 🎉 **Vitor Xavier** resolveu **ex09 – Ano bissexto** (+10)
 - `06/10 14:53` 🎉 **Hyago Correia** resolveu **ex10 – Maior, menor e soma** (+10)
 - `06/10 14:32` 🎉 **Vitor Xavier** resolveu **ex08 – Fatorial** (+10)
 - `05/10 18:38` 🎉 **steigt** resolveu **ex01 – Soma de dois números** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `05/10 18:38` 🎉 **Gabriel** resolveu **ex18 – Contador de vogais** (+20)
 - `05/10 16:09` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex07 – Soma de 1 até N** (+10)
 - `05/10 14:13` 🎉 **Gabriel** resolveu **ex15 – Sequência de Fibonacci** (+10)
-- `05/10 14:06` 🎉 **steigt** resolveu **ex13 – Número primo** (+10)
 
 ### Classificação
 
@@ -38,13 +38,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  16 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  17 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  18 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
-|  19 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  20 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  21 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  22 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  23 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  25 | Vitor Xavier | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  19 | Vitor Xavier | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  20 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  21 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  22 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  23 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  24 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  25 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  26 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  27 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  28 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

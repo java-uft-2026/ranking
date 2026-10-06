@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **06/10/2026 15:05**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **06/10/2026 15:14**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `06/10 15:14` 🎉 **Hyago Correia** resolveu **ex12 – Caixa eletrônico** (+10)
 - `06/10 15:01` 🎉 **Vitor Xavier** resolveu **ex09 – Ano bissexto** (+10)
 - `06/10 14:53` 🎉 **Hyago Correia** resolveu **ex10 – Maior, menor e soma** (+10)
 - `06/10 14:32` 🎉 **Vitor Xavier** resolveu **ex08 – Fatorial** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `05/10 18:38` 🎉 **Joaquim Rangel** resolveu **ex09 – Ano bissexto** (+10)
 - `05/10 18:38` 🎉 **Gabriel** resolveu **ex18 – Contador de vogais** (+20)
 - `05/10 16:09` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex07 – Soma de 1 até N** (+10)
-- `05/10 14:13` 🎉 **Gabriel** resolveu **ex15 – Sequência de Fibonacci** (+10)
 
 ### Classificação
 
@@ -28,7 +28,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  6 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  7 | Luizhen | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  8 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
-|  9 | Hyago Correia | **80** | Iniciante | 8/15 | 0/10 | 0/5 |
+|  9 | Hyago Correia | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  10 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  11 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  12 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

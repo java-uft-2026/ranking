@@ -2,7 +2,7 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **07/10/2026 14:49**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **07/10/2026 17:41**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
@@ -42,10 +42,10 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  20 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  21 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  22 | Evelyn | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  23 | Samuel | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  24 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  25 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  26 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  23 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  25 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  26 | Samuel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  27 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  28 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 

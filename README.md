@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **07/10/2026 09:45**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **07/10/2026 12:56**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `07/10 12:56` 🎉 **Hyago Correia** resolveu **ex14 – Soma dos dígitos** (+10)
 - `06/10 15:20` 🎉 **Luizhen** resolveu **ex11 – Calculadora de IMC** (+10)
 - `06/10 15:14` 🎉 **Hyago Correia** resolveu **ex12 – Caixa eletrônico** (+10)
 - `06/10 15:01` 🎉 **Vitor Xavier** resolveu **ex09 – Ano bissexto** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `06/10 14:32` 🎉 **Vitor Xavier** resolveu **ex08 – Fatorial** (+10)
 - `05/10 18:38` 🎉 **steigt** resolveu **ex01 – Soma de dois números** (+10)
 - `05/10 18:38` 🎉 **Joaquim Rangel** resolveu **ex09 – Ano bissexto** (+10)
-- `05/10 18:38` 🎉 **Gabriel** resolveu **ex18 – Contador de vogais** (+20)
 
 ### Classificação
 
@@ -27,8 +27,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  5 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  6 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  7 | Luizhen | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
-|  8 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
-|  9 | Hyago Correia | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
+|  8 | Hyago Correia | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
+|  9 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  10 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
 |  11 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  12 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

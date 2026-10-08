@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **08/10/2026 10:14**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **08/10/2026 10:24**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `08/10 10:24` 🎉 **Daniel Castelo** resolveu **ex10 – Maior, menor e soma** (+10)
 - `08/10 10:14` 🎉 **Daniel Castelo** resolveu **ex09 – Ano bissexto** (+10)
 - `07/10 22:47` 🎉 **Matheus** resolveu **ex04 – Maior de três** (+10)
 - `07/10 22:15` 🎉 **Matheus** resolveu **ex06 – Tabuada** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `07/10 22:11` 🎉 **Matheus** resolveu **ex03 – Par ou ímpar** (+10)
 - `07/10 22:10` 🎉 **Matheus** resolveu **ex02 – Média de três notas** (+10)
 - `07/10 22:01` 🎉 **Matheus** resolveu **ex01 – Soma de dois números** (+10)
-- `07/10 14:49` 🎉 **Hyago Correia** resolveu **ex16 – Vetor invertido** (+20)
 
 ### Classificação
 
@@ -29,8 +29,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  7 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  8 | Luizhen | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
 |  9 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
-|  10 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
-|  11 | Daniel Castelo | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
+|  10 | Daniel Castelo | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
+|  11 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  12 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  13 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  14 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

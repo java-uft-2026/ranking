@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **08/10/2026 11:45**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **08/10/2026 11:54**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `08/10 11:54` 🎉 **Daniel Castelo** resolveu **ex14 – Soma dos dígitos** (+10)
 - `08/10 11:45` 🎉 **Daniel Castelo** resolveu **ex13 – Número primo** (+10)
 - `08/10 10:36` 🎉 **Daniel Castelo** resolveu **ex11 – Calculadora de IMC** (+10)
 - `08/10 10:24` 🎉 **Daniel Castelo** resolveu **ex10 – Maior, menor e soma** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `07/10 22:47` 🎉 **Matheus** resolveu **ex04 – Maior de três** (+10)
 - `07/10 22:15` 🎉 **Matheus** resolveu **ex06 – Tabuada** (+10)
 - `07/10 22:14` 🎉 **Matheus** resolveu **ex05 – Celsius para Fahrenheit** (+10)
-- `07/10 22:11` 🎉 **Matheus** resolveu **ex03 – Par ou ímpar** (+10)
 
 ### Classificação
 
@@ -26,8 +26,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  4 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  5 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  6 | Hyago Correia | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
-|  7 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
-|  8 | Daniel Castelo | **110** | Aprendiz | 9/15 | 1/10 | 0/5 |
+|  7 | Daniel Castelo | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
+|  8 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  9 | Luizhen | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
 |  10 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  11 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |

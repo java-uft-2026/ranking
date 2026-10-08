@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **07/10/2026 17:41**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **07/10/2026 22:01**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `07/10 22:01` 🎉 **Matheus** resolveu **ex01 – Soma de dois números** (+10)
 - `07/10 14:49` 🎉 **Hyago Correia** resolveu **ex16 – Vetor invertido** (+20)
 - `07/10 12:56` 🎉 **Hyago Correia** resolveu **ex14 – Soma dos dígitos** (+10)
 - `06/10 15:20` 🎉 **Luizhen** resolveu **ex11 – Calculadora de IMC** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `06/10 15:01` 🎉 **Vitor Xavier** resolveu **ex09 – Ano bissexto** (+10)
 - `06/10 14:53` 🎉 **Hyago Correia** resolveu **ex10 – Maior, menor e soma** (+10)
 - `06/10 14:32` 🎉 **Vitor Xavier** resolveu **ex08 – Fatorial** (+10)
-- `05/10 18:38` 🎉 **steigt** resolveu **ex01 – Soma de dois números** (+10)
 
 ### Classificação
 
@@ -34,10 +34,10 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  12 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  13 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  14 | steigt | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  15 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  16 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  17 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  18 | Matheus | **20** | Iniciante | 0/15 | 1/10 | 0/5 |
+|  15 | Matheus | **30** | Iniciante | 1/15 | 1/10 | 0/5 |
+|  16 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  17 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  18 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  19 | Vitor Xavier | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  20 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  21 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **07/10/2026 22:11**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **07/10/2026 22:14**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `07/10 22:14` 🎉 **Matheus** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `07/10 22:11` 🎉 **Matheus** resolveu **ex03 – Par ou ímpar** (+10)
 - `07/10 22:10` 🎉 **Matheus** resolveu **ex02 – Média de três notas** (+10)
 - `07/10 22:01` 🎉 **Matheus** resolveu **ex01 – Soma de dois números** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `07/10 12:56` 🎉 **Hyago Correia** resolveu **ex14 – Soma dos dígitos** (+10)
 - `06/10 15:20` 🎉 **Luizhen** resolveu **ex11 – Calculadora de IMC** (+10)
 - `06/10 15:14` 🎉 **Hyago Correia** resolveu **ex12 – Caixa eletrônico** (+10)
-- `06/10 15:01` 🎉 **Vitor Xavier** resolveu **ex09 – Ano bissexto** (+10)
 
 ### Classificação
 
@@ -30,7 +30,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  8 | Luizhen | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
 |  9 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  10 | Daniel Castelo | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
-|  11 | Matheus | **50** | Iniciante | 3/15 | 1/10 | 0/5 |
+|  11 | Matheus | **60** | Iniciante | 4/15 | 1/10 | 0/5 |
 |  12 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  13 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  14 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

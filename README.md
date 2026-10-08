@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **08/10/2026 16:47**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **08/10/2026 17:17**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `08/10 17:17` 🎉 **Vitor Xavier** resolveu **ex12 – Caixa eletrônico** (+10)
 - `08/10 16:47` 🎉 **Vitor Xavier** resolveu **ex11 – Calculadora de IMC** (+10)
 - `08/10 15:57` 🎉 **Daniel Castelo** resolveu **ex20 – Frequência de valores** (+20)
 - `08/10 15:53` 🎉 **Vitor Xavier** resolveu **ex10 – Maior, menor e soma** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `08/10 12:49` 🎉 **Daniel Castelo** resolveu **ex19 – Ordenação na mão** (+20)
 - `08/10 12:13` 🎉 **Daniel Castelo** resolveu **ex18 – Contador de vogais** (+20)
 - `08/10 11:54` 🎉 **Daniel Castelo** resolveu **ex14 – Soma dos dígitos** (+10)
-- `08/10 11:45` 🎉 **Daniel Castelo** resolveu **ex13 – Número primo** (+10)
 
 ### Classificação
 
@@ -31,11 +31,11 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  9 | Luizhen | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
 |  10 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  11 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
-|  12 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  13 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  14 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  15 | steigt | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  16 | Vitor Xavier | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  12 | Vitor Xavier | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  13 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  14 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  15 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  16 | steigt | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  17 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  18 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  19 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |

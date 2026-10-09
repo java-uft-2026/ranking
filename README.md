@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **09/10/2026 15:22**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **09/10/2026 15:51**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `09/10 15:51` 🎉 **Luizhen** resolveu **ex16 – Vetor invertido** (+20)
 - `09/10 15:22` 🎉 **Hyago Correia** resolveu **ex23 – Decimal para binário** (+20)
 - `09/10 14:31` 🎉 **Hyago Correia** resolveu **ex22 – MDC e MMC** (+20)
 - `09/10 10:42` 🎉 **Hyago Correia** resolveu **ex21 – Matriz transposta** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `08/10 20:42` 🎉 **Gabriel** resolveu **ex19 – Ordenação na mão** (+20)
 - `08/10 19:37` 🎉 **Hyago Correia** resolveu **ex19 – Ordenação na mão** (+20)
 - `08/10 17:17` 🎉 **Vitor Xavier** resolveu **ex12 – Caixa eletrônico** (+10)
-- `08/10 16:47` 🎉 **Vitor Xavier** resolveu **ex11 – Calculadora de IMC** (+10)
 
 ### Classificação
 
@@ -27,8 +27,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  5 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  6 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  7 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
-|  8 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
-|  9 | Luizhen | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
+|  8 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
+|  9 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  10 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  11 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  12 | Vitor Xavier | **50** | Iniciante | 5/15 | 0/10 | 0/5 |

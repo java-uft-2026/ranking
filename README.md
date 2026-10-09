@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **09/10/2026 14:13**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **09/10/2026 14:31**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `09/10 14:31` 🎉 **Hyago Correia** resolveu **ex22 – MDC e MMC** (+20)
 - `09/10 10:42` 🎉 **Hyago Correia** resolveu **ex21 – Matriz transposta** (+20)
 - `09/10 10:28` 🎉 **Hyago Correia** resolveu **ex20 – Frequência de valores** (+20)
 - `08/10 20:42` 🎉 **Gabriel** resolveu **ex19 – Ordenação na mão** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `08/10 17:17` 🎉 **Vitor Xavier** resolveu **ex12 – Caixa eletrônico** (+10)
 - `08/10 16:47` 🎉 **Vitor Xavier** resolveu **ex11 – Calculadora de IMC** (+10)
 - `08/10 15:57` 🎉 **Daniel Castelo** resolveu **ex20 – Frequência de valores** (+20)
-- `08/10 15:53` 🎉 **Vitor Xavier** resolveu **ex10 – Maior, menor e soma** (+10)
 
 ### Classificação
 
@@ -23,7 +23,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 | 🥉 3 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
-|  4 | Hyago Correia | **200** | Aprendiz | 10/15 | 5/10 | 0/5 |
+|  4 | Hyago Correia | **220** | Aprendiz | 10/15 | 6/10 | 0/5 |
 |  5 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  6 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  7 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |

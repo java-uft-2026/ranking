@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **10/10/2026 03:45**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **10/10/2026 13:38**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `10/10 13:38` 🎉 **Hyago Correia** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `09/10 21:26` 🎉 **Andrei** resolveu **ex06 – Tabuada** (+10)
 - `09/10 17:51` 🎉 **Hyago Correia** resolveu **ex25 – Cifra de César** (+20)
 - `09/10 15:51` 🎉 **Luizhen** resolveu **ex16 – Vetor invertido** (+20)
@@ -14,14 +15,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `09/10 14:31` 🎉 **Hyago Correia** resolveu **ex22 – MDC e MMC** (+20)
 - `09/10 10:42` 🎉 **Hyago Correia** resolveu **ex21 – Matriz transposta** (+20)
 - `09/10 10:28` 🎉 **Hyago Correia** resolveu **ex20 – Frequência de valores** (+20)
-- `08/10 20:42` 🎉 **Gabriel** resolveu **ex19 – Ordenação na mão** (+20)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | Hyago Correia | **260** | Desenvolvedor | 10/15 | 8/10 | 0/5 |
+| 🥈 2 | Hyago Correia | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 | 🥉 3 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  4 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  5 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |

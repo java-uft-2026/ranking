@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **09/10/2026 17:51**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **09/10/2026 21:26**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `09/10 21:26` 🎉 **Andrei** resolveu **ex06 – Tabuada** (+10)
 - `09/10 17:51` 🎉 **Hyago Correia** resolveu **ex25 – Cifra de César** (+20)
 - `09/10 15:51` 🎉 **Luizhen** resolveu **ex16 – Vetor invertido** (+20)
 - `09/10 15:22` 🎉 **Hyago Correia** resolveu **ex23 – Decimal para binário** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `09/10 10:42` 🎉 **Hyago Correia** resolveu **ex21 – Matriz transposta** (+20)
 - `09/10 10:28` 🎉 **Hyago Correia** resolveu **ex20 – Frequência de valores** (+20)
 - `08/10 20:42` 🎉 **Gabriel** resolveu **ex19 – Ordenação na mão** (+20)
-- `08/10 19:37` 🎉 **Hyago Correia** resolveu **ex19 – Ordenação na mão** (+20)
 
 ### Classificação
 
@@ -32,9 +32,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  10 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  11 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  12 | Vitor Xavier | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  13 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  14 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  15 | Andrei | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  13 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  14 | Pedro Paiva | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  15 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  16 | steigt | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  17 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  18 | Arthur | **20** | Iniciante | 2/15 | 0/10 | 0/5 |

@@ -2,19 +2,19 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **12/10/2026 18:29**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **12/10/2026 18:30**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `12/10 18:30` 🎉 **Pedro Paiva** resolveu **ex08 – Fatorial** (+10)
+- `12/10 18:30` 🎉 **Pedro Paiva** resolveu **ex07 – Soma de 1 até N** (+10)
 - `12/10 18:29` 🎉 **Pedro Paiva** resolveu **ex03 – Par ou ímpar** (+10)
 - `12/10 18:17` 🎉 **Pedro Paiva** resolveu **ex09 – Ano bissexto** (+10)
 - `12/10 16:27` 🎉 **Pedro Paiva** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `10/10 13:38` 🎉 **Hyago Correia** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `09/10 21:26` 🎉 **Andrei** resolveu **ex06 – Tabuada** (+10)
 - `09/10 17:51` 🎉 **Hyago Correia** resolveu **ex25 – Cifra de César** (+20)
-- `09/10 15:51` 🎉 **Luizhen** resolveu **ex16 – Vetor invertido** (+20)
-- `09/10 15:22` 🎉 **Hyago Correia** resolveu **ex23 – Decimal para binário** (+20)
 
 ### Classificação
 
@@ -30,8 +30,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  8 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  9 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  10 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
-|  11 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
-|  12 | Pedro Paiva | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  11 | Pedro Paiva | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
+|  12 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  13 | Vitor Xavier | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  14 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  15 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

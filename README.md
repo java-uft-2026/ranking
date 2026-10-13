@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 16:32**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 16:47**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 16:47` 🎉 **steigt** resolveu **ex17 – Palíndromo** (+20)
 - `13/10 16:32` 🎉 **steigt** resolveu **ex16 – Vetor invertido** (+20)
 - `13/10 15:54` 🎉 **steigt** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `13/10 15:42` 🎉 **steigt** resolveu **ex14 – Soma dos dígitos** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 15:04` 🎉 **steigt** resolveu **ex09 – Ano bissexto** (+10)
 - `13/10 14:51` 🎉 **steigt** resolveu **ex08 – Fatorial** (+10)
 - `13/10 14:39` 🎉 **steigt** resolveu **ex07 – Soma de 1 até N** (+10)
-- `13/10 14:32` 🎉 **Arthur** resolveu **ex06 – Tabuada** (+10)
 
 ### Classificação
 
@@ -24,8 +24,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥈 2 | Hyago Correia | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 | 🥉 3 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  4 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
-|  5 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
-|  6 | steigt | **170** | Aprendiz | 15/15 | 1/10 | 0/5 |
+|  5 | steigt | **190** | Aprendiz | 15/15 | 2/10 | 0/5 |
+|  6 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  7 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  8 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  9 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |

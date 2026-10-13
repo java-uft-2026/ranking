@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 15:10**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 15:22**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 15:22` 🎉 **steigt** resolveu **ex10 – Maior, menor e soma** (+10)
 - `13/10 15:04` 🎉 **steigt** resolveu **ex09 – Ano bissexto** (+10)
 - `13/10 14:51` 🎉 **steigt** resolveu **ex08 – Fatorial** (+10)
 - `13/10 14:39` 🎉 **steigt** resolveu **ex07 – Soma de 1 até N** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 14:03` 🎉 **steigt** resolveu **ex06 – Tabuada** (+10)
 - `13/10 14:03` 🎉 **Vitor Xavier** resolveu **ex06 – Tabuada** (+10)
 - `13/10 14:00` 🎉 **steigt** resolveu **ex05 – Celsius para Fahrenheit** (+10)
-- `13/10 13:57` 🎉 **steigt** resolveu **ex04 – Maior de três** (+10)
 
 ### Classificação
 
@@ -26,9 +26,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  4 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  5 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  6 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
-|  7 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
-|  8 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
-|  9 | steigt | **120** | Aprendiz | 12/15 | 0/10 | 0/5 |
+|  7 | steigt | **130** | Aprendiz | 13/15 | 0/10 | 0/5 |
+|  8 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
+|  9 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  10 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  11 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  12 | Pedro Paiva | **90** | Iniciante | 9/15 | 0/10 | 0/5 |

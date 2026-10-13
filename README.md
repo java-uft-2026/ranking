@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 17:16**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 17:29**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 17:29` 🎉 **Arthur** resolveu **ex07 – Soma de 1 até N** (+10)
 - `13/10 17:16` 🎉 **steigt** resolveu **ex19 – Ordenação na mão** (+20)
 - `13/10 17:00` 🎉 **steigt** resolveu **ex18 – Contador de vogais** (+20)
 - `13/10 16:47` 🎉 **steigt** resolveu **ex17 – Palíndromo** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 15:54` 🎉 **steigt** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `13/10 15:42` 🎉 **steigt** resolveu **ex14 – Soma dos dígitos** (+10)
 - `13/10 15:22` 🎉 **steigt** resolveu **ex10 – Maior, menor e soma** (+10)
-- `13/10 15:04` 🎉 **steigt** resolveu **ex09 – Ano bissexto** (+10)
 
 ### Classificação
 
@@ -35,8 +35,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  13 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  14 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  15 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  16 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  17 | Arthur | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  16 | Arthur | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  17 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  18 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  19 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  20 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

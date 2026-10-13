@@ -2,19 +2,19 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 13:55**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 13:57**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 13:57` 🎉 **steigt** resolveu **ex04 – Maior de três** (+10)
+- `13/10 13:57` 🎉 **Vitor Xavier** resolveu **ex04 – Maior de três** (+10)
 - `13/10 13:55` 🎉 **steigt** resolveu **ex03 – Par ou ímpar** (+10)
 - `13/10 13:53` 🎉 **steigt** resolveu **ex02 – Média de três notas** (+10)
 - `13/10 13:35` 🎉 **Arthur** resolveu **ex04 – Maior de três** (+10)
 - `12/10 18:30` 🎉 **Pedro Paiva** resolveu **ex08 – Fatorial** (+10)
 - `12/10 18:30` 🎉 **Pedro Paiva** resolveu **ex07 – Soma de 1 até N** (+10)
 - `12/10 18:29` 🎉 **Pedro Paiva** resolveu **ex03 – Par ou ímpar** (+10)
-- `12/10 18:17` 🎉 **Pedro Paiva** resolveu **ex09 – Ano bissexto** (+10)
-- `12/10 16:27` 🎉 **Pedro Paiva** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 
 ### Classificação
 
@@ -32,8 +32,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  10 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  11 | Pedro Paiva | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  12 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
-|  13 | steigt | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
-|  14 | Vitor Xavier | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  13 | steigt | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  14 | Vitor Xavier | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
 |  15 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  16 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  17 | Arthur | **30** | Iniciante | 3/15 | 0/10 | 0/5 |

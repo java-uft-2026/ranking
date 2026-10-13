@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 20:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 20:27**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 20:27` 🎉 **steigt** resolveu **ex25 – Cifra de César** (+20)
 - `13/10 20:06` 🎉 **steigt** resolveu **ex24 – Segundo maior** (+20)
 - `13/10 20:01` 🎉 **Pedro Paiva** resolveu **ex10 – Maior, menor e soma** (+10)
 - `13/10 18:50` 🎉 **steigt** resolveu **ex23 – Decimal para binário** (+20)
@@ -14,14 +15,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 18:14` 🎉 **steigt** resolveu **ex21 – Matriz transposta** (+20)
 - `13/10 17:30` 🎉 **steigt** resolveu **ex20 – Frequência de valores** (+20)
 - `13/10 17:29` 🎉 **Arthur** resolveu **ex07 – Soma de 1 até N** (+10)
-- `13/10 17:16` 🎉 **steigt** resolveu **ex19 – Ordenação na mão** (+20)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | steigt | **330** | Desenvolvedor | 15/15 | 9/10 | 0/5 |
+| 🥈 2 | steigt | **350** | Desenvolvedor | 15/15 | 10/10 | 0/5 |
 | 🥉 3 | Hyago Correia | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  4 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  5 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |

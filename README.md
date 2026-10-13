@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 14:39**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 14:51**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 14:51` 🎉 **steigt** resolveu **ex08 – Fatorial** (+10)
 - `13/10 14:39` 🎉 **steigt** resolveu **ex07 – Soma de 1 até N** (+10)
 - `13/10 14:32` 🎉 **Arthur** resolveu **ex06 – Tabuada** (+10)
 - `13/10 14:03` 🎉 **steigt** resolveu **ex06 – Tabuada** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 14:00` 🎉 **steigt** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `13/10 13:57` 🎉 **steigt** resolveu **ex04 – Maior de três** (+10)
 - `13/10 13:57` 🎉 **Vitor Xavier** resolveu **ex04 – Maior de três** (+10)
-- `13/10 13:55` 🎉 **steigt** resolveu **ex03 – Par ou ímpar** (+10)
 
 ### Classificação
 
@@ -29,7 +29,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  7 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  8 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  9 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
-|  10 | steigt | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
+|  10 | steigt | **110** | Aprendiz | 11/15 | 0/10 | 0/5 |
 |  11 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  12 | Pedro Paiva | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  13 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |

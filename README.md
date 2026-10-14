@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **14/10/2026 00:53**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **14/10/2026 08:39**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `14/10 08:39` 🎉 **Matheus** resolveu **ex08 – Fatorial** (+10)
 - `14/10 00:53` 🎉 **Pedro Paiva** resolveu **ex16 – Vetor invertido** (+20)
 - `14/10 00:53` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `14/10 00:51` 🎉 **Pedro Paiva** resolveu **ex15 – Sequência de Fibonacci** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 23:24` 🎉 **Pedro Paiva** resolveu **ex13 – Número primo** (+10)
 - `13/10 22:59` 🎉 **Matheus** resolveu **ex27 – Busca binária** (+40)
 - `13/10 22:55` 🎉 **steigt** resolveu **ex30 – Maior soma contígua** (+40)
-- `13/10 22:48` 🎉 **Pedro Paiva** resolveu **ex12 – Caixa eletrônico** (+10)
 
 ### Classificação
 
@@ -28,7 +28,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  6 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  7 | Pedro Paiva | **170** | Aprendiz | 15/15 | 1/10 | 0/5 |
 |  8 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
-|  9 | Matheus | **130** | Aprendiz | 7/15 | 1/10 | 1/5 |
+|  9 | Matheus | **140** | Aprendiz | 8/15 | 1/10 | 1/5 |
 |  10 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  11 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  12 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |

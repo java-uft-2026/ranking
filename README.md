@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **14/10/2026 00:47**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **14/10/2026 00:51**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `14/10 00:51` 🎉 **Pedro Paiva** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `13/10 23:48` 🎉 **Pedro Paiva** resolveu **ex14 – Soma dos dígitos** (+10)
 - `13/10 23:24` 🎉 **Pedro Paiva** resolveu **ex13 – Número primo** (+10)
 - `13/10 22:59` 🎉 **Matheus** resolveu **ex27 – Busca binária** (+40)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 22:48` 🎉 **Pedro Paiva** resolveu **ex12 – Caixa eletrônico** (+10)
 - `13/10 22:25` 🎉 **steigt** resolveu **ex29 – Matriz em espiral** (+40)
 - `13/10 22:21` 🎉 **Pedro Paiva** resolveu **ex11 – Calculadora de IMC** (+10)
-- `13/10 22:15` 🎉 **Matheus** resolveu **ex07 – Soma de 1 até N** (+10)
 
 ### Classificação
 
@@ -27,7 +27,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  5 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  6 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  7 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
-|  8 | Pedro Paiva | **140** | Aprendiz | 14/15 | 0/10 | 0/5 |
+|  8 | Pedro Paiva | **150** | Aprendiz | 15/15 | 0/10 | 0/5 |
 |  9 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  10 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  11 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |

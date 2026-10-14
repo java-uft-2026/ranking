@@ -2,26 +2,26 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 21:09**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 21:51**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 21:51` 🎉 **steigt** resolveu **ex28 – Torre de Hanói** (+40)
+- `13/10 21:51` 🎉 **Joaquim Rangel** resolveu **ex11 – Calculadora de IMC** (+10)
 - `13/10 21:09` 🎉 **steigt** resolveu **ex27 – Busca binária** (+40)
 - `13/10 20:55` 🎉 **steigt** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `13/10 20:27` 🎉 **steigt** resolveu **ex25 – Cifra de César** (+20)
 - `13/10 20:06` 🎉 **steigt** resolveu **ex24 – Segundo maior** (+20)
 - `13/10 20:01` 🎉 **Pedro Paiva** resolveu **ex10 – Maior, menor e soma** (+10)
 - `13/10 18:50` 🎉 **steigt** resolveu **ex23 – Decimal para binário** (+20)
-- `13/10 18:41` 🎉 **steigt** resolveu **ex22 – MDC e MMC** (+20)
-- `13/10 18:14` 🎉 **steigt** resolveu **ex21 – Matriz transposta** (+20)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
-| 🥇 1 | Joaquim Rangel | **540** | Avançado | 14/15 | 10/10 | 5/5 |
-| 🥈 2 | steigt | **430** | Avançado | 15/15 | 10/10 | 2/5 |
+| 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
+| 🥈 2 | steigt | **470** | Avançado | 15/15 | 10/10 | 3/5 |
 | 🥉 3 | Hyago Correia | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  4 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  5 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |

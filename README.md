@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **14/10/2026 18:30**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **14/10/2026 18:34**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `14/10 18:34` 🎉 **Arthur** resolveu **ex10 – Maior, menor e soma** (+10)
 - `14/10 18:14` 🎉 **Vitor Marinho** resolveu **ex02 – Média de três notas** (+10)
 - `14/10 18:14` 🎉 **Lucas** resolveu **ex02 – Média de três notas** (+10)
 - `14/10 18:03` 🎉 **Vitor Marinho** resolveu **ex05 – Celsius para Fahrenheit** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `14/10 08:51` 🎉 **Evelyn** resolveu **ex14 – Soma dos dígitos** (+10)
 - `14/10 08:49` 🎉 **Evelyn** resolveu **ex13 – Número primo** (+10)
 - `14/10 08:47` 🎉 **Evelyn** resolveu **ex12 – Caixa eletrônico** (+10)
-- `14/10 08:39` 🎉 **Matheus** resolveu **ex08 – Fatorial** (+10)
 
 ### Classificação
 
@@ -34,8 +34,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  12 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  13 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  14 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
-|  15 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  16 | Arthur | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  15 | Arthur | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
+|  16 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  17 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  18 | Evelyn | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  19 | Vitor Marinho | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **13/10/2026 21:54**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **13/10/2026 22:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `13/10 22:15` 🎉 **Matheus** resolveu **ex07 – Soma de 1 até N** (+10)
 - `13/10 21:54` 🎉 **Joaquim Rangel** resolveu **ex11 – Calculadora de IMC** (+10)
 - `13/10 21:51` 🎉 **steigt** resolveu **ex28 – Torre de Hanói** (+40)
 - `13/10 21:09` 🎉 **steigt** resolveu **ex27 – Busca binária** (+40)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `13/10 20:27` 🎉 **steigt** resolveu **ex25 – Cifra de César** (+20)
 - `13/10 20:06` 🎉 **steigt** resolveu **ex24 – Segundo maior** (+20)
 - `13/10 20:01` 🎉 **Pedro Paiva** resolveu **ex10 – Maior, menor e soma** (+10)
-- `13/10 18:50` 🎉 **steigt** resolveu **ex23 – Decimal para binário** (+20)
 
 ### Classificação
 
@@ -32,7 +32,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  10 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  11 | Pedro Paiva | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
 |  12 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
-|  13 | Matheus | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
+|  13 | Matheus | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  14 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  15 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  16 | Arthur | **50** | Iniciante | 5/15 | 0/10 | 0/5 |

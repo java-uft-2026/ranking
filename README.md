@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **14/10/2026 09:42**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **14/10/2026 17:48**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `14/10 17:48` 🎉 **Vitor Marinho** resolveu **ex04 – Maior de três** (+10)
 - `14/10 08:51` 🎉 **Evelyn** resolveu **ex14 – Soma dos dígitos** (+10)
 - `14/10 08:49` 🎉 **Evelyn** resolveu **ex13 – Número primo** (+10)
 - `14/10 08:47` 🎉 **Evelyn** resolveu **ex12 – Caixa eletrônico** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `14/10 00:53` 🎉 **Pedro Paiva** resolveu **ex16 – Vetor invertido** (+20)
 - `14/10 00:53` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `14/10 00:51` 🎉 **Pedro Paiva** resolveu **ex15 – Sequência de Fibonacci** (+10)
-- `13/10 23:48` 🎉 **Pedro Paiva** resolveu **ex14 – Soma dos dígitos** (+10)
 
 ### Classificação
 
@@ -40,9 +40,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  18 | Evelyn | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  19 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  20 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
-|  21 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  22 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  23 | Vitor Marinho | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  21 | Vitor Marinho | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
+|  22 | Dairllon Miranda | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
+|  23 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  25 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  26 | Samuel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

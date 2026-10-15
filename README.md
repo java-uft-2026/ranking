@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **15/10/2026 09:40**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **15/10/2026 10:33**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `15/10 10:33` 🎉 **Daniel Castelo** resolveu **ex21 – Matriz transposta** (+20)
 - `15/10 00:44` 🎉 **Pedro Paiva** resolveu **ex22 – MDC e MMC** (+20)
 - `15/10 00:16` 🎉 **Pedro Paiva** resolveu **ex27 – Busca binária** (+40)
 - `14/10 23:20` 🎉 **Pedro Paiva** resolveu **ex18 – Contador de vogais** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `14/10 22:14` 🎉 **Matheus** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `14/10 22:02` 🎉 **Pedro Paiva** resolveu **ex17 – Palíndromo** (+20)
 - `14/10 21:56` 🎉 **Matheus** resolveu **ex13 – Número primo** (+10)
-- `14/10 21:49` 🎉 **Matheus** resolveu **ex14 – Soma dos dígitos** (+10)
 
 ### Classificação
 
@@ -27,7 +27,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  5 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  6 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  7 | Matheus | **230** | Aprendiz | 15/15 | 2/10 | 1/5 |
-|  8 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
+|  8 | Daniel Castelo | **200** | Aprendiz | 10/15 | 5/10 | 0/5 |
 |  9 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  10 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  11 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |

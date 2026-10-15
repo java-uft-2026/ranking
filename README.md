@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **14/10/2026 21:18**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **14/10/2026 21:49**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `14/10 21:49` 🎉 **Matheus** resolveu **ex14 – Soma dos dígitos** (+10)
 - `14/10 21:18` 🎉 **Pedro Paiva** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `14/10 20:32` 🎉 **Matheus** resolveu **ex12 – Caixa eletrônico** (+10)
 - `14/10 20:22` 🎉 **Matheus** resolveu **ex11 – Calculadora de IMC** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `14/10 20:00` 🎉 **Matheus** resolveu **ex10 – Maior, menor e soma** (+10)
 - `14/10 19:10` 🎉 **Arthur** resolveu **ex11 – Calculadora de IMC** (+10)
 - `14/10 18:34` 🎉 **Arthur** resolveu **ex10 – Maior, menor e soma** (+10)
-- `14/10 18:14` 🎉 **Vitor Marinho** resolveu **ex02 – Média de três notas** (+10)
 
 ### Classificação
 
@@ -26,8 +26,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  4 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  5 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  6 | Pedro Paiva | **210** | Aprendiz | 15/15 | 1/10 | 1/5 |
-|  7 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
-|  8 | Matheus | **180** | Aprendiz | 12/15 | 1/10 | 1/5 |
+|  7 | Matheus | **190** | Aprendiz | 13/15 | 1/10 | 1/5 |
+|  8 | Daniel Castelo | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  9 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  10 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  11 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |

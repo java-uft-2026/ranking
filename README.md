@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **14/10/2026 23:20**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **15/10/2026 00:16**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `15/10 00:16` 🎉 **Pedro Paiva** resolveu **ex27 – Busca binária** (+40)
 - `14/10 23:20` 🎉 **Pedro Paiva** resolveu **ex18 – Contador de vogais** (+20)
 - `14/10 23:03` 🎉 **Matheus** resolveu **ex18 – Contador de vogais** (+20)
 - `14/10 22:14` 🎉 **Matheus** resolveu **ex15 – Sequência de Fibonacci** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `14/10 21:56` 🎉 **Matheus** resolveu **ex13 – Número primo** (+10)
 - `14/10 21:49` 🎉 **Matheus** resolveu **ex14 – Soma dos dígitos** (+10)
 - `14/10 21:18` 🎉 **Pedro Paiva** resolveu **ex26 – Crivo de Eratóstenes** (+40)
-- `14/10 20:32` 🎉 **Matheus** resolveu **ex12 – Caixa eletrônico** (+10)
 
 ### Classificação
 
@@ -23,7 +23,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | steigt | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥉 3 | Hyago Correia | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
-|  4 | Pedro Paiva | **250** | Desenvolvedor | 15/15 | 3/10 | 1/5 |
+|  4 | Pedro Paiva | **290** | Desenvolvedor | 15/15 | 3/10 | 2/5 |
 |  5 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  6 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  7 | Matheus | **230** | Aprendiz | 15/15 | 2/10 | 1/5 |

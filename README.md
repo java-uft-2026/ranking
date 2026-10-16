@@ -2,12 +2,11 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **16/10/2026 16:20**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **16/10/2026 16:24**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
-- `16/10 16:03` 🎉 **Hyago Correia** resolveu **ex03 – Par ou ímpar** (+10)
 - `16/10 15:50` 🎉 **Hyago Correia** resolveu **ex02 – Média de três notas** (+10)
 - `16/10 15:50` 🎉 **Dairllon Miranda** resolveu **ex02 – Média de três notas** (+10)
 - `16/10 11:53` 🎉 **Daniel Castelo** resolveu **ex25 – Cifra de César** (+20)
@@ -15,6 +14,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `15/10 21:48` 🎉 **Pedro Paiva** resolveu **ex19 – Ordenação na mão** (+20)
 - `15/10 11:42` 🎉 **Daniel Castelo** resolveu **ex24 – Segundo maior** (+20)
 - `15/10 11:08` 🎉 **Daniel Castelo** resolveu **ex23 – Decimal para binário** (+20)
+- `15/10 10:33` 🎉 **Daniel Castelo** resolveu **ex21 – Matriz transposta** (+20)
 
 ### Classificação
 
@@ -23,7 +23,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥇 1 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | steigt | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥉 3 | Pedro Paiva | **350** | Desenvolvedor | 15/15 | 6/10 | 2/5 |
-|  4 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
+|  4 | Hyago Correia | **310** | Desenvolvedor | 11/15 | 8/10 | 1/5 |
 |  5 | Daniel Castelo | **260** | Desenvolvedor | 10/15 | 8/10 | 0/5 |
 |  6 | Gabriela Hirata | **230** | Aprendiz | 13/15 | 5/10 | 0/5 |
 |  7 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |

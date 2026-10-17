@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **17/10/2026 15:43**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **17/10/2026 16:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `17/10 16:15` 🎉 **Dairllon Miranda** resolveu **ex27 – Busca binária** (+40)
 - `16/10 16:28` 🎉 **Hyago Correia** resolveu **ex03 – Par ou ímpar** (+10)
 - `16/10 16:28` 🎉 **Dairllon Miranda** resolveu **ex03 – Par ou ímpar** (+10)
 - `16/10 15:50` 🎉 **Hyago Correia** resolveu **ex02 – Média de três notas** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `16/10 11:53` 🎉 **Daniel Castelo** resolveu **ex25 – Cifra de César** (+20)
 - `15/10 23:54` 🎉 **Pedro Paiva** resolveu **ex20 – Frequência de valores** (+20)
 - `15/10 21:48` 🎉 **Pedro Paiva** resolveu **ex19 – Ordenação na mão** (+20)
-- `15/10 11:42` 🎉 **Daniel Castelo** resolveu **ex24 – Segundo maior** (+20)
 
 ### Classificação
 
@@ -35,11 +35,11 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  13 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  14 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  15 | Arthur | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
-|  16 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  17 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  18 | Evelyn | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  19 | Vitor Marinho | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  20 | Dairllon Miranda | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
+|  16 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
+|  17 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  18 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  19 | Evelyn | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  20 | Vitor Marinho | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  21 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  22 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  23 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

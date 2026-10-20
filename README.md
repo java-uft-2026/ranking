@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **20/10/2026 17:49**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **20/10/2026 18:08**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `20/10 18:08` 🎉 **Evelyn** resolveu **ex16 – Vetor invertido** (+20)
 - `20/10 17:49` 🎉 **Evelyn** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `20/10 17:25` 🎉 **Evelyn** resolveu **ex10 – Maior, menor e soma** (+10)
 - `19/10 00:17` 🎉 **Pedro Paiva** resolveu **ex24 – Segundo maior** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `18/10 19:41` 🎉 **Pedro Paiva** resolveu **ex23 – Decimal para binário** (+20)
 - `18/10 18:09` 🎉 **Daniel Castelo** resolveu **ex27 – Busca binária** (+40)
 - `17/10 20:39` 🎉 **Pedro Paiva** resolveu **ex21 – Matriz transposta** (+20)
-- `17/10 18:32` 🎉 **Dairllon Miranda** resolveu **ex27 – Busca binária** (+40)
 
 ### Classificação
 
@@ -33,10 +33,10 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  11 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  12 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
 |  13 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
-|  14 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
-|  15 | Arthur | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
-|  16 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
-|  17 | Evelyn | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
+|  14 | Evelyn | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
+|  15 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  16 | Arthur | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  17 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
 |  18 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  19 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  20 | Vitor Marinho | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

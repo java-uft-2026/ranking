@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **21/10/2026 16:49**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **21/10/2026 16:52**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `21/10 16:52` 🎉 **Vitor Marinho** resolveu **ex03 – Par ou ímpar** (+10)
 - `21/10 16:49` 🎉 **Vitor Marinho** resolveu **ex09 – Ano bissexto** (+10)
 - `21/10 16:48` 🎉 **Vitor Marinho** resolveu **ex07 – Soma de 1 até N** (+10)
 - `21/10 16:48` 🎉 **Vitor Marinho** resolveu **ex06 – Tabuada** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `21/10 16:40` 🎉 **Vitor Marinho** resolveu **ex08 – Fatorial** (+10)
 - `20/10 23:11` 🎉 **Pedro Paiva** resolveu **ex25 – Cifra de César** (+20)
 - `20/10 18:08` 🎉 **Evelyn** resolveu **ex16 – Vetor invertido** (+20)
-- `20/10 17:49` 🎉 **Evelyn** resolveu **ex15 – Sequência de Fibonacci** (+10)
 
 ### Classificação
 
@@ -32,8 +32,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  10 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  11 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  12 | Keven | **110** | Aprendiz | 3/15 | 4/10 | 0/5 |
-|  13 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
-|  14 | Vitor Marinho | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
+|  13 | Vitor Marinho | **100** | Aprendiz | 10/15 | 0/10 | 0/5 |
+|  14 | Ítalo César Fonseca Bandeira | **90** | Iniciante | 7/15 | 1/10 | 0/5 |
 |  15 | Evelyn | **80** | Iniciante | 6/15 | 1/10 | 0/5 |
 |  16 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  17 | Arthur | **70** | Iniciante | 7/15 | 0/10 | 0/5 |

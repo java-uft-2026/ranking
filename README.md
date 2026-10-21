@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **21/10/2026 16:08**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **21/10/2026 16:40**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `21/10 16:40` 🎉 **Vitor Marinho** resolveu **ex08 – Fatorial** (+10)
 - `20/10 23:11` 🎉 **Pedro Paiva** resolveu **ex25 – Cifra de César** (+20)
 - `20/10 18:08` 🎉 **Evelyn** resolveu **ex16 – Vetor invertido** (+20)
 - `20/10 17:49` 🎉 **Evelyn** resolveu **ex15 – Sequência de Fibonacci** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `19/10 00:17` 🎉 **Pedro Paiva** resolveu **ex24 – Segundo maior** (+20)
 - `18/10 19:54` 🎉 **Pedro Paiva** resolveu **ex13 – Número primo** (+10)
 - `18/10 19:41` 🎉 **Pedro Paiva** resolveu **ex23 – Decimal para binário** (+20)
-- `18/10 18:09` 🎉 **Daniel Castelo** resolveu **ex27 – Busca binária** (+40)
 
 ### Classificação
 
@@ -39,7 +39,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  17 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
 |  18 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  19 | Lucas | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  20 | Vitor Marinho | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  20 | Vitor Marinho | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  21 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  22 | Cerutti | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  23 | Diniz | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

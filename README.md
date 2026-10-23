@@ -2,7 +2,7 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **22/10/2026 23:48**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **23/10/2026 00:06**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
@@ -13,8 +13,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `22/10 23:48` 🎉 **Cerutti** resolveu **ex22 – MDC e MMC** (+20)
 - `22/10 23:48` 🎉 **Cerutti** resolveu **ex21 – Matriz transposta** (+20)
 - `22/10 23:48` 🎉 **Cerutti** resolveu **ex19 – Ordenação na mão** (+20)
-- `22/10 23:48` 🎉 **Cerutti** resolveu **ex18 – Contador de vogais** (+20)
 - `22/10 23:48` 🎉 **Cerutti** resolveu **ex17 – Palíndromo** (+20)
+- `22/10 23:48` 🎉 **Cerutti** resolveu **ex14 – Soma dos dígitos** (+10)
 
 ### Classificação
 
@@ -28,7 +28,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  6 | Gabriel | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  7 | Gabriela Hirata | **210** | Aprendiz | 13/15 | 4/10 | 0/5 |
 |  8 | Matheus | **210** | Aprendiz | 15/15 | 1/10 | 1/5 |
-|  9 | Cerutti | **210** | Aprendiz | 5/15 | 8/10 | 0/5 |
+|  9 | Cerutti | **190** | Aprendiz | 5/15 | 7/10 | 0/5 |
 |  10 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  11 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  12 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |

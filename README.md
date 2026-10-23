@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **23/10/2026 09:39**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **23/10/2026 11:12**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `23/10 11:12` 🎉 **Joaquim Rangel** resolveu **ex16 – Vetor invertido** (+20)
 - `23/10 01:13` 🎉 **Vitor Marinho** resolveu **ex16 – Vetor invertido** (+20)
 - `23/10 01:13` 🎉 **Keven** resolveu **ex16 – Vetor invertido** (+20)
 - `23/10 01:13` 🎉 **Evelyn** resolveu **ex16 – Vetor invertido** (+20)
@@ -14,14 +15,13 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `23/10 01:12` 🎉 **Gabriela Hirata** resolveu **ex18 – Contador de vogais** (+20)
 - `23/10 00:53` 🎉 **Vitor Marinho** resolveu **ex17 – Palíndromo** (+20)
 - `22/10 23:48` 🎉 **Cerutti** resolveu **ex25 – Cifra de César** (+20)
-- `22/10 23:48` 🎉 **Cerutti** resolveu **ex24 – Segundo maior** (+20)
 
 ### Classificação
 
 | # | Aluno | Pontos | Nível | Básico | Intermediário | Difícil |
 |---|---|---|---|---|---|---|
 | 🥇 1 | steigt | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
-| 🥈 2 | Joaquim Rangel | **530** | Avançado | 15/15 | 9/10 | 5/5 |
+| 🥈 2 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥉 3 | Pedro Paiva | **470** | Avançado | 15/15 | 10/10 | 3/5 |
 |  4 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
 |  5 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |

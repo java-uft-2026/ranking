@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **28/10/2026 18:59**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **28/10/2026 19:33**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `28/10 19:33` 🎉 **Arthur** resolveu **ex14 – Soma dos dígitos** (+10)
 - `28/10 18:43` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `28/10 17:12` 🎉 **Gabriel** resolveu **ex21 – Matriz transposta** (+20)
 - `28/10 16:13` 🎉 **Gabriel** resolveu **ex20 – Frequência de valores** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `23/10 11:12` 🎉 **Joaquim Rangel** resolveu **ex16 – Vetor invertido** (+20)
 - `23/10 01:13` 🎉 **Vitor Marinho** resolveu **ex16 – Vetor invertido** (+20)
 - `23/10 01:13` 🎉 **Keven** resolveu **ex16 – Vetor invertido** (+20)
-- `23/10 01:13` 🎉 **Evelyn** resolveu **ex16 – Vetor invertido** (+20)
 
 ### Classificação
 
@@ -35,7 +35,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  13 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  14 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  15 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
-|  16 | Arthur | **80** | Iniciante | 8/15 | 0/10 | 0/5 |
+|  16 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  17 | Ítalo César Fonseca Bandeira | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |

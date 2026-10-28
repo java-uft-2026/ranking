@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **28/10/2026 18:39**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **28/10/2026 18:43**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `28/10 18:43` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `28/10 17:12` 🎉 **Gabriel** resolveu **ex21 – Matriz transposta** (+20)
 - `28/10 16:13` 🎉 **Gabriel** resolveu **ex20 – Frequência de valores** (+20)
 - `28/10 14:24` 🎉 **Arthur** resolveu **ex12 – Caixa eletrônico** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `23/10 01:13` 🎉 **Vitor Marinho** resolveu **ex16 – Vetor invertido** (+20)
 - `23/10 01:13` 🎉 **Keven** resolveu **ex16 – Vetor invertido** (+20)
 - `23/10 01:13` 🎉 **Evelyn** resolveu **ex16 – Vetor invertido** (+20)
-- `23/10 01:12` 🎉 **Ricardo Gabriel** resolveu **ex18 – Contador de vogais** (+20)
 
 ### Classificação
 
@@ -26,7 +26,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  4 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
 |  5 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  6 | Gabriel | **270** | Desenvolvedor | 15/15 | 6/10 | 0/5 |
-|  7 | Matheus | **210** | Aprendiz | 15/15 | 1/10 | 1/5 |
+|  7 | Matheus | **230** | Aprendiz | 15/15 | 2/10 | 1/5 |
 |  8 | Gabriela Hirata | **210** | Aprendiz | 13/15 | 4/10 | 0/5 |
 |  9 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  10 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |

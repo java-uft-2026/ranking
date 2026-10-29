@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **28/10/2026 23:48**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **28/10/2026 23:59**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `28/10 23:59` 🎉 **Matheus** resolveu **ex23 – Decimal para binário** (+20)
 - `28/10 23:48` 🎉 **Matheus** resolveu **ex22 – MDC e MMC** (+20)
 - `28/10 23:16` 🎉 **Matheus** resolveu **ex21 – Matriz transposta** (+20)
 - `28/10 22:15` 🎉 **Matheus** resolveu **ex19 – Ordenação na mão** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `28/10 19:33` 🎉 **Arthur** resolveu **ex14 – Soma dos dígitos** (+10)
 - `28/10 18:43` 🎉 **Matheus** resolveu **ex16 – Vetor invertido** (+20)
 - `28/10 17:12` 🎉 **Gabriel** resolveu **ex21 – Matriz transposta** (+20)
-- `28/10 16:13` 🎉 **Gabriel** resolveu **ex20 – Frequência de valores** (+20)
 
 ### Classificação
 
@@ -23,8 +23,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥇 1 | steigt | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥉 3 | Pedro Paiva | **470** | Avançado | 15/15 | 10/10 | 3/5 |
-|  4 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
-|  5 | Matheus | **310** | Desenvolvedor | 15/15 | 6/10 | 1/5 |
+|  4 | Matheus | **330** | Desenvolvedor | 15/15 | 7/10 | 1/5 |
+|  5 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
 |  6 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  7 | Gabriel | **270** | Desenvolvedor | 15/15 | 6/10 | 0/5 |
 |  8 | Gabriela Hirata | **210** | Aprendiz | 13/15 | 4/10 | 0/5 |

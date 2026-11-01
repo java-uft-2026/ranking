@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/11/2026 17:05**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/11/2026 17:19**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/11 17:19` 🎉 **Luizhen** resolveu **ex19 – Ordenação na mão** (+20)
 - `01/11 12:15` 🎉 **Diniz** resolveu **ex14 – Soma dos dígitos** (+10)
 - `31/10 11:31` 🎉 **Diniz** resolveu **ex12 – Caixa eletrônico** (+10)
 - `30/10 19:35` 🎉 **Diniz** resolveu **ex10 – Maior, menor e soma** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `29/10 17:25` 🎉 **Luizhen** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `29/10 17:01` 🎉 **Diniz** resolveu **ex04 – Maior de três** (+10)
 - `28/10 23:59` 🎉 **Matheus** resolveu **ex23 – Decimal para binário** (+20)
-- `28/10 23:48` 🎉 **Matheus** resolveu **ex22 – MDC e MMC** (+20)
 
 ### Classificação
 
@@ -31,8 +31,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  9 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  10 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  11 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
-|  12 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
-|  13 | Luizhen | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
+|  12 | Luizhen | **140** | Aprendiz | 10/15 | 2/10 | 0/5 |
+|  13 | Gabriel Veloso | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
 |  14 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  15 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  16 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |

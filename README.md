@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/11/2026 09:24**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/11/2026 12:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/11 12:15` 🎉 **Diniz** resolveu **ex14 – Soma dos dígitos** (+10)
 - `31/10 11:31` 🎉 **Diniz** resolveu **ex12 – Caixa eletrônico** (+10)
 - `30/10 19:35` 🎉 **Diniz** resolveu **ex10 – Maior, menor e soma** (+10)
 - `29/10 17:51` 🎉 **Diniz** resolveu **ex08 – Fatorial** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `29/10 17:01` 🎉 **Diniz** resolveu **ex04 – Maior de três** (+10)
 - `28/10 23:59` 🎉 **Matheus** resolveu **ex23 – Decimal para binário** (+20)
 - `28/10 23:48` 🎉 **Matheus** resolveu **ex22 – MDC e MMC** (+20)
-- `28/10 23:16` 🎉 **Matheus** resolveu **ex21 – Matriz transposta** (+20)
 
 ### Classificação
 
@@ -40,8 +40,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
 |  20 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  21 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  22 | Diniz | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
+|  21 | Diniz | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  22 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  23 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  25 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

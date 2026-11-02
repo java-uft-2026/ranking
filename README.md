@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/11/2026 22:04**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/11/2026 22:11**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/11 22:11` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex08 – Fatorial** (+10)
 - `01/11 22:03` 🎉 **Gabriel Veloso** resolveu **ex20 – Frequência de valores** (+20)
 - `01/11 22:02` 🎉 **Gabriel Veloso** resolveu **ex19 – Ordenação na mão** (+20)
 - `01/11 22:01` 🎉 **Gabriel Veloso** resolveu **ex17 – Palíndromo** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/11 21:52` 🎉 **Gabriel Veloso** resolveu **ex09 – Ano bissexto** (+10)
 - `01/11 21:39` 🎉 **Luizhen** resolveu **ex20 – Frequência de valores** (+20)
 - `01/11 17:19` 🎉 **Luizhen** resolveu **ex19 – Ordenação na mão** (+20)
-- `01/11 12:15` 🎉 **Diniz** resolveu **ex14 – Soma dos dígitos** (+10)
 
 ### Classificação
 
@@ -36,7 +36,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  14 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  15 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  16 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
-|  17 | Ítalo César Fonseca Bandeira | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  17 | Ítalo César Fonseca Bandeira | **80** | Iniciante | 8/15 | 0/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
 |  20 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |

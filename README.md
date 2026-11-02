@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/11/2026 22:00**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/11/2026 22:01**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/11 22:01` 🎉 **Gabriel Veloso** resolveu **ex17 – Palíndromo** (+20)
 - `01/11 21:53` 🎉 **Gabriel Veloso** resolveu **ex12 – Caixa eletrônico** (+10)
 - `01/11 21:52` 🎉 **Gabriel Veloso** resolveu **ex09 – Ano bissexto** (+10)
 - `01/11 21:39` 🎉 **Luizhen** resolveu **ex20 – Frequência de valores** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/11 12:15` 🎉 **Diniz** resolveu **ex14 – Soma dos dígitos** (+10)
 - `31/10 11:31` 🎉 **Diniz** resolveu **ex12 – Caixa eletrônico** (+10)
 - `30/10 19:35` 🎉 **Diniz** resolveu **ex10 – Maior, menor e soma** (+10)
-- `29/10 17:51` 🎉 **Diniz** resolveu **ex08 – Fatorial** (+10)
 
 ### Classificação
 
@@ -30,9 +30,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  8 | Gabriela Hirata | **210** | Aprendiz | 13/15 | 4/10 | 0/5 |
 |  9 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  10 | Luizhen | **160** | Aprendiz | 10/15 | 3/10 | 0/5 |
-|  11 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
-|  12 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
-|  13 | Gabriel Veloso | **140** | Aprendiz | 12/15 | 1/10 | 0/5 |
+|  11 | Gabriel Veloso | **160** | Aprendiz | 12/15 | 2/10 | 0/5 |
+|  12 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
+|  13 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
 |  14 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  15 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  16 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |

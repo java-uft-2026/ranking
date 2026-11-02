@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **01/11/2026 22:17**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **01/11/2026 22:19**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/11 22:19` 🎉 **Gabriel Veloso** resolveu **ex18 – Contador de vogais** (+20)
 - `01/11 22:17` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
 - `01/11 22:17` 🎉 **Gabriel Veloso** resolveu **ex14 – Soma dos dígitos** (+10)
 - `01/11 22:13` 🎉 **Gabriel Veloso** resolveu **ex13 – Número primo** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/11 22:03` 🎉 **Gabriel Veloso** resolveu **ex20 – Frequência de valores** (+20)
 - `01/11 22:02` 🎉 **Gabriel Veloso** resolveu **ex19 – Ordenação na mão** (+20)
 - `01/11 22:01` 🎉 **Gabriel Veloso** resolveu **ex17 – Palíndromo** (+20)
-- `01/11 21:53` 🎉 **Gabriel Veloso** resolveu **ex12 – Caixa eletrônico** (+10)
 
 ### Classificação
 
@@ -27,7 +27,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  5 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
 |  6 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  7 | Gabriel | **270** | Desenvolvedor | 15/15 | 6/10 | 0/5 |
-|  8 | Gabriel Veloso | **220** | Aprendiz | 14/15 | 4/10 | 0/5 |
+|  8 | Gabriel Veloso | **240** | Aprendiz | 14/15 | 5/10 | 0/5 |
 |  9 | Gabriela Hirata | **210** | Aprendiz | 13/15 | 4/10 | 0/5 |
 |  10 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  11 | Luizhen | **160** | Aprendiz | 10/15 | 3/10 | 0/5 |

@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/11/2026 10:02**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/11/2026 10:37**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `02/11 10:37` 🎉 **Diniz** resolveu **ex17 – Palíndromo** (+20)
 - `02/11 10:02` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex11 – Calculadora de IMC** (+10)
 - `02/11 09:33` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex10 – Maior, menor e soma** (+10)
 - `01/11 23:47` 🎉 **Luizhen** resolveu **ex21 – Matriz transposta** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/11 22:30` 🎉 **Gabriel Veloso** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `01/11 22:19` 🎉 **Gabriel Veloso** resolveu **ex18 – Contador de vogais** (+20)
 - `01/11 22:17` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
-- `01/11 22:17` 🎉 **Gabriel Veloso** resolveu **ex14 – Soma dos dígitos** (+10)
 
 ### Classificação
 
@@ -39,8 +39,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  17 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
-|  20 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
-|  21 | Diniz | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
+|  20 | Diniz | **70** | Iniciante | 5/15 | 1/10 | 0/5 |
+|  21 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  22 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  23 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |

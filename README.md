@@ -7,6 +7,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `01/11 22:17` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
 - `01/11 22:17` 🎉 **Gabriel Veloso** resolveu **ex14 – Soma dos dígitos** (+10)
 - `01/11 22:13` 🎉 **Gabriel Veloso** resolveu **ex13 – Número primo** (+10)
 - `01/11 22:11` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex08 – Fatorial** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/11 22:02` 🎉 **Gabriel Veloso** resolveu **ex19 – Ordenação na mão** (+20)
 - `01/11 22:01` 🎉 **Gabriel Veloso** resolveu **ex17 – Palíndromo** (+20)
 - `01/11 21:53` 🎉 **Gabriel Veloso** resolveu **ex12 – Caixa eletrônico** (+10)
-- `01/11 21:52` 🎉 **Gabriel Veloso** resolveu **ex09 – Ano bissexto** (+10)
 
 ### Classificação
 
@@ -34,9 +34,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  12 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
 |  13 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
 |  14 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
-|  15 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
-|  16 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
-|  17 | Ítalo César Fonseca Bandeira | **80** | Iniciante | 8/15 | 0/10 | 0/5 |
+|  15 | Ítalo César Fonseca Bandeira | **100** | Aprendiz | 8/15 | 1/10 | 0/5 |
+|  16 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
+|  17 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
 |  20 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |

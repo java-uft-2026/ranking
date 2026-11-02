@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/11/2026 10:37**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/11/2026 11:11**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `02/11 11:11` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex12 – Caixa eletrônico** (+10)
 - `02/11 10:37` 🎉 **Diniz** resolveu **ex17 – Palíndromo** (+20)
 - `02/11 10:02` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex11 – Calculadora de IMC** (+10)
 - `02/11 09:33` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex10 – Maior, menor e soma** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `01/11 22:39` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex09 – Ano bissexto** (+10)
 - `01/11 22:30` 🎉 **Gabriel Veloso** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `01/11 22:19` 🎉 **Gabriel Veloso** resolveu **ex18 – Contador de vogais** (+20)
-- `01/11 22:17` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex16 – Vetor invertido** (+20)
 
 ### Classificação
 
@@ -32,8 +32,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  10 | Luizhen | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  11 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  12 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
-|  13 | Ricardo Gabriel | **130** | Aprendiz | 7/15 | 3/10 | 0/5 |
-|  14 | Ítalo César Fonseca Bandeira | **130** | Aprendiz | 11/15 | 1/10 | 0/5 |
+|  13 | Ítalo César Fonseca Bandeira | **140** | Aprendiz | 12/15 | 1/10 | 0/5 |
+|  14 | Ricardo Gabriel | **130** | Aprendiz | 7/15 | 3/10 | 0/5 |
 |  15 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  16 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  17 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |

@@ -2,7 +2,7 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **02/11/2026 00:21**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **02/11/2026 00:28**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
@@ -28,11 +28,11 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  6 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  7 | Gabriel | **270** | Desenvolvedor | 15/15 | 6/10 | 0/5 |
 |  8 | Gabriel Veloso | **250** | Desenvolvedor | 15/15 | 5/10 | 0/5 |
-|  9 | Gabriela Hirata | **210** | Aprendiz | 13/15 | 4/10 | 0/5 |
+|  9 | Gabriela Hirata | **190** | Aprendiz | 13/15 | 3/10 | 0/5 |
 |  10 | Luizhen | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  11 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
-|  12 | Ricardo Gabriel | **150** | Aprendiz | 7/15 | 4/10 | 0/5 |
-|  13 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
+|  12 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
+|  13 | Ricardo Gabriel | **130** | Aprendiz | 7/15 | 3/10 | 0/5 |
 |  14 | Ítalo César Fonseca Bandeira | **110** | Aprendiz | 9/15 | 1/10 | 0/5 |
 |  15 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  16 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |

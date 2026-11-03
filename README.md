@@ -2,19 +2,19 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **03/11/2026 17:28**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **03/11/2026 18:01**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `03/11 18:01` 🎉 **Arthur** resolveu **ex16 – Vetor invertido** (+20)
+- `03/11 18:01` 🎉 **Arthur** resolveu **ex08 – Fatorial** (+10)
 - `03/11 17:23` 🎉 **Ricardo Gabriel** resolveu **ex23 – Decimal para binário** (+20)
 - `03/11 16:28` 🎉 **Ricardo Gabriel** resolveu **ex21 – Matriz transposta** (+20)
 - `03/11 15:53` 🎉 **Ricardo Gabriel** resolveu **ex20 – Frequência de valores** (+20)
 - `02/11 23:53` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex15 – Sequência de Fibonacci** (+10)
 - `02/11 23:25` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex14 – Soma dos dígitos** (+10)
 - `02/11 11:46` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex13 – Número primo** (+10)
-- `02/11 11:11` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex12 – Caixa eletrônico** (+10)
-- `02/11 10:02` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex11 – Calculadora de IMC** (+10)
 
 ### Classificação
 
@@ -34,9 +34,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  12 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  13 | Ítalo César Fonseca Bandeira | **170** | Aprendiz | 15/15 | 1/10 | 0/5 |
 |  14 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
-|  15 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
-|  16 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
-|  17 | Arthur | **90** | Iniciante | 9/15 | 0/10 | 0/5 |
+|  15 | Arthur | **120** | Aprendiz | 10/15 | 1/10 | 0/5 |
+|  16 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
+|  17 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
 |  20 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |

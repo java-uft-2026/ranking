@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **03/11/2026 16:44**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **03/11/2026 17:23**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `03/11 17:23` 🎉 **Ricardo Gabriel** resolveu **ex23 – Decimal para binário** (+20)
 - `03/11 16:28` 🎉 **Ricardo Gabriel** resolveu **ex21 – Matriz transposta** (+20)
 - `03/11 15:53` 🎉 **Ricardo Gabriel** resolveu **ex20 – Frequência de valores** (+20)
 - `02/11 23:53` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex15 – Sequência de Fibonacci** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `02/11 11:46` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex13 – Número primo** (+10)
 - `02/11 11:11` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex12 – Caixa eletrônico** (+10)
 - `02/11 10:02` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex11 – Calculadora de IMC** (+10)
-- `02/11 09:33` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex10 – Maior, menor e soma** (+10)
 
 ### Classificação
 
@@ -28,11 +28,11 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  6 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  7 | Gabriel | **270** | Desenvolvedor | 15/15 | 6/10 | 0/5 |
 |  8 | Gabriel Veloso | **250** | Desenvolvedor | 15/15 | 5/10 | 0/5 |
-|  9 | Luizhen | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
-|  10 | Gabriela Hirata | **170** | Aprendiz | 13/15 | 2/10 | 0/5 |
-|  11 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
-|  12 | Ítalo César Fonseca Bandeira | **170** | Aprendiz | 15/15 | 1/10 | 0/5 |
-|  13 | Ricardo Gabriel | **170** | Aprendiz | 7/15 | 5/10 | 0/5 |
+|  9 | Ricardo Gabriel | **190** | Aprendiz | 7/15 | 6/10 | 0/5 |
+|  10 | Luizhen | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
+|  11 | Gabriela Hirata | **170** | Aprendiz | 13/15 | 2/10 | 0/5 |
+|  12 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
+|  13 | Ítalo César Fonseca Bandeira | **170** | Aprendiz | 15/15 | 1/10 | 0/5 |
 |  14 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
 |  15 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  16 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |

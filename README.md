@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **03/11/2026 23:40**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **03/11/2026 23:44**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `03/11 23:44` 🎉 **Daniel Lavor** resolveu **ex03 – Par ou ímpar** (+10)
 - `03/11 23:36` 🎉 **Arthur** resolveu **ex18 – Contador de vogais** (+20)
 - `03/11 23:34` 🎉 **Daniel Lavor** resolveu **ex01 – Soma de dois números** (+10)
 - `03/11 23:08` 🎉 **Daniel Lavor** resolveu **ex06 – Tabuada** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `03/11 19:08` 🎉 **Arthur** resolveu **ex17 – Palíndromo** (+20)
 - `03/11 18:01` 🎉 **Arthur** resolveu **ex16 – Vetor invertido** (+20)
 - `03/11 18:01` 🎉 **Arthur** resolveu **ex08 – Fatorial** (+10)
-- `03/11 17:23` 🎉 **Ricardo Gabriel** resolveu **ex23 – Decimal para binário** (+20)
 
 ### Classificação
 
@@ -42,7 +42,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  20 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  21 | Diniz | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  22 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
-|  23 | Daniel Lavor | **30** | Iniciante | 3/15 | 0/10 | 0/5 |
+|  23 | Daniel Lavor | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  24 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  25 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  26 | Samuel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

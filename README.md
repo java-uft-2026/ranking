@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **03/11/2026 23:35**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **03/11/2026 23:36**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `03/11 23:36` 🎉 **Arthur** resolveu **ex18 – Contador de vogais** (+20)
 - `03/11 23:34` 🎉 **Daniel Lavor** resolveu **ex01 – Soma de dois números** (+10)
 - `03/11 23:08` 🎉 **Daniel Lavor** resolveu **ex06 – Tabuada** (+10)
 - `03/11 22:38` 🎉 **Daniel Lavor** resolveu **ex02 – Média de três notas** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `03/11 18:01` 🎉 **Arthur** resolveu **ex16 – Vetor invertido** (+20)
 - `03/11 18:01` 🎉 **Arthur** resolveu **ex08 – Fatorial** (+10)
 - `03/11 17:23` 🎉 **Ricardo Gabriel** resolveu **ex23 – Decimal para binário** (+20)
-- `03/11 16:28` 🎉 **Ricardo Gabriel** resolveu **ex21 – Matriz transposta** (+20)
 
 ### Classificação
 
@@ -33,8 +33,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  11 | Gabriela Hirata | **170** | Aprendiz | 13/15 | 2/10 | 0/5 |
 |  12 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  13 | Ítalo César Fonseca Bandeira | **170** | Aprendiz | 15/15 | 1/10 | 0/5 |
-|  14 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
-|  15 | Arthur | **140** | Aprendiz | 10/15 | 2/10 | 0/5 |
+|  14 | Arthur | **160** | Aprendiz | 10/15 | 3/10 | 0/5 |
+|  15 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
 |  16 | Evelyn | **100** | Aprendiz | 6/15 | 2/10 | 0/5 |
 |  17 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |

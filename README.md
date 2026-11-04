@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **03/11/2026 22:23**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **03/11/2026 22:38**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `03/11 22:38` 🎉 **Daniel Lavor** resolveu **ex02 – Média de três notas** (+10)
 - `03/11 19:08` 🎉 **Arthur** resolveu **ex17 – Palíndromo** (+20)
 - `03/11 18:01` 🎉 **Arthur** resolveu **ex16 – Vetor invertido** (+20)
 - `03/11 18:01` 🎉 **Arthur** resolveu **ex08 – Fatorial** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `03/11 16:28` 🎉 **Ricardo Gabriel** resolveu **ex21 – Matriz transposta** (+20)
 - `03/11 15:53` 🎉 **Ricardo Gabriel** resolveu **ex20 – Frequência de valores** (+20)
 - `02/11 23:53` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex15 – Sequência de Fibonacci** (+10)
-- `02/11 23:25` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex14 – Soma dos dígitos** (+10)
 
 ### Classificação
 
@@ -44,7 +44,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  22 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |
 |  23 | João Gabriel | **20** | Iniciante | 2/15 | 0/10 | 0/5 |
 |  24 | Eduardo Liell | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
-|  25 | Daniel Lavor | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
+|  25 | Daniel Lavor | **10** | Iniciante | 1/15 | 0/10 | 0/5 |
 |  26 | Samuel | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  27 | Samuel Souza | **0** | Iniciante | 0/15 | 0/10 | 0/5 |
 |  28 | Vitor Martins | **0** | Iniciante | 0/15 | 0/10 | 0/5 |

@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/11/2026 19:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/11/2026 19:56**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `04/11 19:56` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex19 – Ordenação na mão** (+20)
 - `04/11 19:15` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex18 – Contador de vogais** (+20)
 - `04/11 18:47` 🎉 **Arthur** resolveu **ex19 – Ordenação na mão** (+20)
 - `04/11 18:40` 🎉 **Evelyn** resolveu **ex25 – Cifra de César** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/11 17:46` 🎉 **Evelyn** resolveu **ex23 – Decimal para binário** (+20)
 - `04/11 17:37` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex17 – Palíndromo** (+20)
 - `04/11 16:38` 🎉 **Gabriel** resolveu **ex22 – MDC e MMC** (+20)
-- `04/11 16:24` 🎉 **Gabriel** resolveu **ex23 – Decimal para binário** (+20)
 
 ### Classificação
 
@@ -29,7 +29,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  7 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  8 | Gabriel Veloso | **250** | Desenvolvedor | 15/15 | 5/10 | 0/5 |
 |  9 | Ricardo Gabriel | **250** | Desenvolvedor | 7/15 | 9/10 | 0/5 |
-|  10 | Ítalo César Fonseca Bandeira | **210** | Aprendiz | 15/15 | 3/10 | 0/5 |
+|  10 | Ítalo César Fonseca Bandeira | **230** | Aprendiz | 15/15 | 4/10 | 0/5 |
 |  11 | Evelyn | **200** | Aprendiz | 6/15 | 7/10 | 0/5 |
 |  12 | Luizhen | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
 |  13 | Arthur | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |

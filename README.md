@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/11/2026 18:40**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/11/2026 18:47**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `04/11 18:47` 🎉 **Arthur** resolveu **ex19 – Ordenação na mão** (+20)
 - `04/11 18:40` 🎉 **Evelyn** resolveu **ex25 – Cifra de César** (+20)
 - `04/11 18:08` 🎉 **Evelyn** resolveu **ex24 – Segundo maior** (+20)
 - `04/11 17:46` 🎉 **Evelyn** resolveu **ex23 – Decimal para binário** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/11 16:38` 🎉 **Gabriel** resolveu **ex22 – MDC e MMC** (+20)
 - `04/11 16:24` 🎉 **Gabriel** resolveu **ex23 – Decimal para binário** (+20)
 - `04/11 15:56` 🎉 **Ricardo Gabriel** resolveu **ex25 – Cifra de César** (+20)
-- `04/11 14:27` 🎉 **Ricardo Gabriel** resolveu **ex24 – Segundo maior** (+20)
 
 ### Classificação
 
@@ -32,9 +32,9 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  10 | Evelyn | **200** | Aprendiz | 6/15 | 7/10 | 0/5 |
 |  11 | Ítalo César Fonseca Bandeira | **190** | Aprendiz | 15/15 | 2/10 | 0/5 |
 |  12 | Luizhen | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
-|  13 | Gabriela Hirata | **170** | Aprendiz | 13/15 | 2/10 | 0/5 |
-|  14 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
-|  15 | Arthur | **160** | Aprendiz | 10/15 | 3/10 | 0/5 |
+|  13 | Arthur | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |
+|  14 | Gabriela Hirata | **170** | Aprendiz | 13/15 | 2/10 | 0/5 |
+|  15 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  16 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
 |  17 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |

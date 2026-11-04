@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/11/2026 16:25**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/11/2026 16:38**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `04/11 16:38` 🎉 **Gabriel** resolveu **ex22 – MDC e MMC** (+20)
 - `04/11 16:24` 🎉 **Gabriel** resolveu **ex23 – Decimal para binário** (+20)
 - `04/11 15:56` 🎉 **Ricardo Gabriel** resolveu **ex25 – Cifra de César** (+20)
 - `04/11 14:27` 🎉 **Ricardo Gabriel** resolveu **ex24 – Segundo maior** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/11 13:17` 🎉 **Evelyn** resolveu **ex21 – Matriz transposta** (+20)
 - `04/11 12:15` 🎉 **Evelyn** resolveu **ex20 – Frequência de valores** (+20)
 - `03/11 23:51` 🎉 **Daniel Lavor** resolveu **ex05 – Celsius para Fahrenheit** (+10)
-- `03/11 23:51` 🎉 **Daniel Lavor** resolveu **ex04 – Maior de três** (+10)
 
 ### Classificação
 
@@ -25,8 +25,8 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥉 3 | Pedro Paiva | **470** | Avançado | 15/15 | 10/10 | 3/5 |
 |  4 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
 |  5 | Matheus | **310** | Desenvolvedor | 15/15 | 6/10 | 1/5 |
-|  6 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
-|  7 | Gabriel | **290** | Desenvolvedor | 15/15 | 7/10 | 0/5 |
+|  6 | Gabriel | **310** | Desenvolvedor | 15/15 | 8/10 | 0/5 |
+|  7 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  8 | Gabriel Veloso | **250** | Desenvolvedor | 15/15 | 5/10 | 0/5 |
 |  9 | Ricardo Gabriel | **250** | Desenvolvedor | 7/15 | 9/10 | 0/5 |
 |  10 | Luizhen | **180** | Aprendiz | 10/15 | 4/10 | 0/5 |

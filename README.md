@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/11/2026 12:15**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/11/2026 13:17**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `04/11 13:17` 🎉 **Evelyn** resolveu **ex21 – Matriz transposta** (+20)
 - `04/11 12:15` 🎉 **Evelyn** resolveu **ex20 – Frequência de valores** (+20)
 - `03/11 23:51` 🎉 **Daniel Lavor** resolveu **ex05 – Celsius para Fahrenheit** (+10)
 - `03/11 23:51` 🎉 **Daniel Lavor** resolveu **ex04 – Maior de três** (+10)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `03/11 23:36` 🎉 **Arthur** resolveu **ex18 – Contador de vogais** (+20)
 - `03/11 23:34` 🎉 **Daniel Lavor** resolveu **ex01 – Soma de dois números** (+10)
 - `03/11 23:08` 🎉 **Daniel Lavor** resolveu **ex06 – Tabuada** (+10)
-- `03/11 22:38` 🎉 **Daniel Lavor** resolveu **ex02 – Média de três notas** (+10)
 
 ### Classificação
 
@@ -35,7 +35,7 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  13 | Ítalo César Fonseca Bandeira | **170** | Aprendiz | 15/15 | 1/10 | 0/5 |
 |  14 | Arthur | **160** | Aprendiz | 10/15 | 3/10 | 0/5 |
 |  15 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
-|  16 | Evelyn | **120** | Aprendiz | 6/15 | 3/10 | 0/5 |
+|  16 | Evelyn | **140** | Aprendiz | 6/15 | 4/10 | 0/5 |
 |  17 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
 |  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
 |  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |

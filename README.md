@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/11/2026 20:50**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **04/11/2026 21:07**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `04/11 21:07` 🎉 **Daniel Lavor** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `04/11 19:56` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex19 – Ordenação na mão** (+20)
 - `04/11 19:15` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex18 – Contador de vogais** (+20)
 - `04/11 18:47` 🎉 **Arthur** resolveu **ex19 – Ordenação na mão** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/11 18:08` 🎉 **Evelyn** resolveu **ex24 – Segundo maior** (+20)
 - `04/11 17:46` 🎉 **Evelyn** resolveu **ex23 – Decimal para binário** (+20)
 - `04/11 17:37` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex17 – Palíndromo** (+20)
-- `04/11 16:38` 🎉 **Gabriel** resolveu **ex22 – MDC e MMC** (+20)
 
 ### Classificação
 
@@ -36,10 +36,10 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 |  14 | Gabriela Hirata | **170** | Aprendiz | 13/15 | 2/10 | 0/5 |
 |  15 | Cerutti | **170** | Aprendiz | 5/15 | 6/10 | 0/5 |
 |  16 | Vitor Marinho | **150** | Aprendiz | 11/15 | 2/10 | 0/5 |
-|  17 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
-|  18 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
-|  19 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
-|  20 | Daniel Lavor | **60** | Iniciante | 6/15 | 0/10 | 0/5 |
+|  17 | Daniel Lavor | **100** | Aprendiz | 6/15 | 0/10 | 1/5 |
+|  18 | Keven | **90** | Iniciante | 3/15 | 3/10 | 0/5 |
+|  19 | Vitor Xavier | **70** | Iniciante | 7/15 | 0/10 | 0/5 |
+|  20 | Dairllon Miranda | **70** | Iniciante | 3/15 | 0/10 | 1/5 |
 |  21 | Andrei | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  22 | Diniz | **50** | Iniciante | 5/15 | 0/10 | 0/5 |
 |  23 | Lucas | **40** | Iniciante | 4/15 | 0/10 | 0/5 |

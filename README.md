@@ -2,11 +2,12 @@
 
 > ### 🔴 [Ver AO VIVO (atualiza sozinho, com os exercícios de cada aluno)](https://java-uft-2026.github.io/ranking/)
 
-_Atualizado em **04/11/2026 23:18**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
+_Atualizado em **05/11/2026 00:22**_ · esta página do GitHub não recarrega sozinha: aperte **F5** para ver a versão mais nova.  
 Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 
 ### ⚡ Últimas conquistas
 
+- `05/11 00:22` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex27 – Busca binária** (+40)
 - `04/11 23:18` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `04/11 22:16` 🎉 **Evelyn** resolveu **ex27 – Busca binária** (+40)
 - `04/11 22:03` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex20 – Frequência de valores** (+20)
@@ -14,7 +15,6 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 - `04/11 21:07` 🎉 **Daniel Lavor** resolveu **ex26 – Crivo de Eratóstenes** (+40)
 - `04/11 19:56` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex19 – Ordenação na mão** (+20)
 - `04/11 19:15` 🎉 **Ítalo César Fonseca Bandeira** resolveu **ex18 – Contador de vogais** (+20)
-- `04/11 18:47` 🎉 **Arthur** resolveu **ex19 – Ordenação na mão** (+20)
 
 ### Classificação
 
@@ -23,11 +23,11 @@ Pontuação: básico 10 · intermediário 20 · difícil 40 pontos
 | 🥇 1 | steigt | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥈 2 | Joaquim Rangel | **550** | Mestre Java | 15/15 | 10/10 | 5/5 |
 | 🥉 3 | Pedro Paiva | **470** | Avançado | 15/15 | 10/10 | 3/5 |
-|  4 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
-|  5 | Matheus | **310** | Desenvolvedor | 15/15 | 6/10 | 1/5 |
-|  6 | Gabriel | **310** | Desenvolvedor | 15/15 | 8/10 | 0/5 |
-|  7 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
-|  8 | Ítalo César Fonseca Bandeira | **290** | Desenvolvedor | 15/15 | 5/10 | 1/5 |
+|  4 | Ítalo César Fonseca Bandeira | **330** | Desenvolvedor | 15/15 | 5/10 | 2/5 |
+|  5 | Hyago Correia | **320** | Desenvolvedor | 12/15 | 8/10 | 1/5 |
+|  6 | Matheus | **310** | Desenvolvedor | 15/15 | 6/10 | 1/5 |
+|  7 | Gabriel | **310** | Desenvolvedor | 15/15 | 8/10 | 0/5 |
+|  8 | Daniel Castelo | **300** | Desenvolvedor | 10/15 | 8/10 | 1/5 |
 |  9 | Evelyn | **280** | Desenvolvedor | 6/15 | 7/10 | 2/5 |
 |  10 | Gabriel Veloso | **250** | Desenvolvedor | 15/15 | 5/10 | 0/5 |
 |  11 | Ricardo Gabriel | **250** | Desenvolvedor | 7/15 | 9/10 | 0/5 |
